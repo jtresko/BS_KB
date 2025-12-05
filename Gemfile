@@ -6,8 +6,4 @@ gem "jekyll", "~> 4.4.1" # installed by `gem jekyll`
 gem "just-the-docs", "0.10.1" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 
-
-gem "jekyll-seo-tag"
-gem "jekyll-github-metadata"
-gem "jekyll-include-cache"
-gem "jekyll-sitemap"
+# Note: jekyll-seo-tag and jekyll-include-cache are already included by just-the-docs

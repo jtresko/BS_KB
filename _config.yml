@@ -60,9 +60,7 @@ mermaid:
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-github-metadata
   - jekyll-include-cache
-  - jekyll-sitemap
 
 
 # Back to top link
