@@ -1,6 +1,7 @@
 ---
 title: BigResearch
 layout: default
+parent: Help Center
 nav_order: 6
 has_children: true
 ---

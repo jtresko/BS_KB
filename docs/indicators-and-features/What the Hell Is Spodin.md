@@ -2,6 +2,7 @@
 title: "What the Hell Is Spodin?"
 layout: default
 parent: Indicators & Features
+grand_parent: Help Center
 nav_order: 7
 ---
 

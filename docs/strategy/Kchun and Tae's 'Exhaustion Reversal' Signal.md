@@ -2,6 +2,7 @@
 title: "Kchun and Tae"
 layout: default
 parent: Strategy
+grand_parent: Help Center
 nav_order: 6
 ---
 

@@ -2,6 +2,7 @@
 title: "Trading with Intermarket Analysis - John J. Murphy"
 layout: default
 parent: BigResearch
+grand_parent: Help Center
 nav_order: 10
 ---
 

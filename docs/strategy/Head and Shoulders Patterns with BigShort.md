@@ -2,6 +2,7 @@
 title: "Head and Shoulders Patterns with BigShort"
 layout: default
 parent: Strategy
+grand_parent: Help Center
 nav_order: 3
 ---
 

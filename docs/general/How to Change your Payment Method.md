@@ -2,6 +2,7 @@
 title: "How to Change your Payment Method"
 layout: default
 parent: General
+grand_parent: Help Center
 nav_order: 3
 ---
 

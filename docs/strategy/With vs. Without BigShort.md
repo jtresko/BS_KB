@@ -2,6 +2,7 @@
 title: "With vs. Without BigShort"
 layout: default
 parent: Strategy
+grand_parent: Help Center
 nav_order: 22
 ---
 

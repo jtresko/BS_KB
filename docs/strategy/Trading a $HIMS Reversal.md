@@ -2,6 +2,7 @@
 title: "Trading a $HIMS Reversal"
 layout: default
 parent: Strategy
+grand_parent: Help Center
 nav_order: 15
 ---
 

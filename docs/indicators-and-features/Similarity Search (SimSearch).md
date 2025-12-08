@@ -2,6 +2,7 @@
 title: "Similarity Search (SimSearch)"
 layout: default
 parent: Indicators & Features
+grand_parent: Help Center
 nav_order: 3
 ---
 

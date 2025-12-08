@@ -2,6 +2,7 @@
 title: "An Unexpected $SPY Reversal"
 layout: default
 parent: Strategy
+grand_parent: Help Center
 nav_order: 1
 ---
 

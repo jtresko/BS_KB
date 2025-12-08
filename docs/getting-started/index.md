@@ -1,6 +1,7 @@
 ---
 title: Getting Started
 layout: default
+parent: Help Center
 nav_order: 1
 has_children: true
 ---

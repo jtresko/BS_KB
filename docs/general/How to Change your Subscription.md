@@ -2,6 +2,7 @@
 title: "How to Change your Subscription"
 layout: default
 parent: General
+grand_parent: Help Center
 nav_order: 4
 ---
 

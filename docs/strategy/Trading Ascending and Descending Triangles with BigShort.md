@@ -2,6 +2,7 @@
 title: "Trading Ascending and Descending Triangles with BigShort"
 layout: default
 parent: Strategy
+grand_parent: Help Center
 nav_order: 17
 ---
 

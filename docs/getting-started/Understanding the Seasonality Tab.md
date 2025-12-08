@@ -2,6 +2,7 @@
 title: "Understanding the Seasonality Tab"
 layout: default
 parent: Getting Started
+grand_parent: Help Center
 nav_order: 12
 ---
 

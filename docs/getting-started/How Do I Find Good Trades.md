@@ -2,6 +2,7 @@
 title: "How Do I Find Good Trades?"
 layout: default
 parent: Getting Started
+grand_parent: Help Center
 nav_order: 5
 ---
 

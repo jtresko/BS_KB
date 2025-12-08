@@ -2,6 +2,7 @@
 title: "Sergius’ Cumulative Volume Swing Trading Strategy"
 layout: default
 parent: Strategy
+grand_parent: Help Center
 nav_order: 7
 ---
 

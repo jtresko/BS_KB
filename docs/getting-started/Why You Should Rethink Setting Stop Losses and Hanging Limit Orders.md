@@ -2,6 +2,7 @@
 title: "Why You Should Rethink Setting Stop Losses and Hanging Limit Orders"
 layout: default
 parent: Getting Started
+grand_parent: Help Center
 nav_order: 15
 ---
 

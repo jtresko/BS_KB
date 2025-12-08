@@ -2,6 +2,7 @@
 title: "Free Money Day - SPY 4.23.25"
 layout: default
 parent: Strategy
+grand_parent: Help Center
 nav_order: 2
 ---
 

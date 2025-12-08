@@ -2,6 +2,7 @@
 title: "Think and Trade like a Champion - Mark Minervini"
 layout: default
 parent: BigResearch
+grand_parent: Help Center
 nav_order: 9
 ---
 

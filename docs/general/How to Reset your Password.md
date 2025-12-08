@@ -2,6 +2,7 @@
 title: "How to Reset your Password"
 layout: default
 parent: General
+grand_parent: Help Center
 nav_order: 5
 ---
 

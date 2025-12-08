@@ -2,6 +2,7 @@
 title: "Joe from Cup of Joe Trading Explains his Premarket Strategy (video)"
 layout: default
 parent: Strategy
+grand_parent: Help Center
 nav_order: 5
 ---
 

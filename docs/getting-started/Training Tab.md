@@ -2,6 +2,7 @@
 title: "Training Tab"
 layout: default
 parent: Getting Started
+grand_parent: Help Center
 nav_order: 11
 ---
 

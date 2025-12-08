@@ -2,6 +2,7 @@
 title: "Dashboard & Top 10s"
 layout: default
 parent: Getting Started
+grand_parent: Help Center
 nav_order: 2
 ---
 

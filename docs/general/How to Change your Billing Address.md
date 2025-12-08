@@ -2,6 +2,7 @@
 title: "How to Change your Billing Address"
 layout: default
 parent: General
+grand_parent: Help Center
 nav_order: 2
 ---
 

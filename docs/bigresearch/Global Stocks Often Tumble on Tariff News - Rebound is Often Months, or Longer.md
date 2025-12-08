@@ -2,6 +2,7 @@
 title: "Global Stocks Often Tumble on Tariff News - Rebound is Often Months, or Longer"
 layout: default
 parent: BigResearch
+grand_parent: Help Center
 nav_order: 2
 ---
 

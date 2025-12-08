@@ -2,6 +2,7 @@
 title: "Support Breakout Trades with BigShort"
 layout: default
 parent: Strategy
+grand_parent: Help Center
 nav_order: 8
 ---
 

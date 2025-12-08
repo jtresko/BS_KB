@@ -2,6 +2,7 @@
 title: "Using Short Exempt (SE) for Swing Trading"
 layout: default
 parent: Strategy
+grand_parent: Help Center
 nav_order: 20
 ---
 

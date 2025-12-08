@@ -2,6 +2,7 @@
 title: "SF Segregated Tab"
 layout: default
 parent: Getting Started
+grand_parent: Help Center
 nav_order: 9
 ---
 

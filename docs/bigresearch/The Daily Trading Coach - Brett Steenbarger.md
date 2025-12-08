@@ -2,6 +2,7 @@
 title: "The Daily Trading Coach - Brett Steenbarger"
 layout: default
 parent: BigResearch
+grand_parent: Help Center
 nav_order: 7
 ---
 

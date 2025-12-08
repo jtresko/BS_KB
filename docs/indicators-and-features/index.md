@@ -1,6 +1,7 @@
 ---
 title: Indicators & Features
 layout: default
+parent: Help Center
 nav_order: 3
 has_children: true
 ---

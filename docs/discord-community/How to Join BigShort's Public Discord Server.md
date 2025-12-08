@@ -2,6 +2,7 @@
 title: "How to Join BigShort"
 layout: default
 parent: Discord Community
+grand_parent: Help Center
 nav_order: 2
 ---
 

@@ -2,6 +2,7 @@
 title: "Quickstart for Day Traders"
 layout: default
 parent: Getting Started
+grand_parent: Help Center
 nav_order: 7
 ---
 

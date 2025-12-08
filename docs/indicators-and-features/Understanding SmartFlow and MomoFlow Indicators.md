@@ -2,6 +2,7 @@
 title: "Understanding SmartFlow and MomoFlow Indicators"
 layout: default
 parent: Indicators & Features
+grand_parent: Help Center
 nav_order: 5
 ---
 

@@ -2,6 +2,7 @@
 title: "Options, Futures, and Other Derivatives - John C. Hull"
 layout: default
 parent: BigResearch
+grand_parent: Help Center
 nav_order: 6
 ---
 

@@ -2,6 +2,7 @@
 title: "Getting the Most from BigShort"
 layout: default
 parent: Discord Community
+grand_parent: Help Center
 nav_order: 1
 ---
 

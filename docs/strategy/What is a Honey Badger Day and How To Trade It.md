@@ -2,6 +2,7 @@
 title: "What is a Honey Badger Day and How To Trade It"
 layout: default
 parent: Strategy
+grand_parent: Help Center
 nav_order: 21
 ---
 

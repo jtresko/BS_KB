@@ -2,6 +2,7 @@
 title: "The Mag7 are failing. Market crash? Or rotation for more risk?"
 layout: default
 parent: BigResearch
+grand_parent: Help Center
 nav_order: 8
 ---
 

@@ -2,6 +2,7 @@
 title: "One Up on Wall Street - Peter Lynch"
 layout: default
 parent: BigResearch
+grand_parent: Help Center
 nav_order: 5
 ---
 

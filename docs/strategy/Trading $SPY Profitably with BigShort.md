@@ -2,6 +2,7 @@
 title: "Trading $SPY Profitably with BigShort"
 layout: default
 parent: Strategy
+grand_parent: Help Center
 nav_order: 14
 ---
 

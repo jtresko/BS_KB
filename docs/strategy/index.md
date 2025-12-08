@@ -1,7 +1,8 @@
 ---
 title: Strategy
 layout: default
-nav_order: 3
+parent: Help Center
+nav_order: 2
 has_children: true
 ---
 

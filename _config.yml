@@ -58,6 +58,18 @@ mermaid:
   # Note: copy both `mermaid.esm.min.mjs` (v10+) or `mermaid.min.js` (<v10) and the associated `.map` file from the specified version of `mermaid/dist` to `/assets/js/`.
 
 
+# Exclude folders from Jekyll processing
+exclude:
+  - intercom_export/
+  - scripts/
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - jekyll_output.log
+  - "*.log"
+  - "Onboarding Guide/"
+
 plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
