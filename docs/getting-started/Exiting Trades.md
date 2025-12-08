@@ -53,4 +53,4 @@ Discussed in this post:
 
   * To learn more about [Dark Pools](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/)
 
-  * To learn more about the [SF Segregated tab](/getting-started/SF Segregated Tab/) used for these trades
+  * To learn more about the [SF Segregated tab](/getting-started/platform-tabs/SF Segregated Tab/) used for these trades

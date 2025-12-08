@@ -23,7 +23,7 @@ Overall, Honey Badger Days have a 90% historical success rate, so even though a 
 
 # Why It Matters
 
-Honey Badger Days (HBDs) have a **90% success rate** and historically happen 6-10 times a year (though 2025 has seen many more HBDs than previous years). Many users more than pay for their annual BigShort subscription on every HBD. [Click here for Honey Badger Success Stories.](https://help.bigshort.com/en/articles/11106719-honey-badger-success-stories) **You should trade every single Honey Badger Day that you can.**
+Honey Badger Days (HBDs) have a **90% success rate** and historically happen 6-10 times a year (though 2025 has seen many more HBDs than previous years). Many users more than pay for their annual BigShort subscription on every HBD. [Click here for Honey Badger Success Stories.](/strategy/user-strategies/Honey Badger Success Stories/) **You should trade every single Honey Badger Day that you can.**
 
 # Typical HBD Pattern
 

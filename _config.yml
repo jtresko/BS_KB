@@ -9,6 +9,9 @@ repository: https://github.com/jtresko/BS_KB # for github-metadata
 # Logo - displays in top left of navigation
 logo: "/assets/images/bs_logo.png"
 
+# Favicon
+favicon_ico: "/assets/images/bs_logo.png"
+
 nav_enabled: true
 heading_anchors: true
 

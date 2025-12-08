@@ -59,10 +59,11 @@ def load_article_mapping():
             if match:
                 article_id = match.group(1)
                 
-                # Find the corresponding local file
+                # Find the corresponding local file (including subcategories)
                 folder_path = DOCS_DIR / folder
                 if folder_path.exists():
-                    for md_file in folder_path.glob("*.md"):
+                    # Search in main folder and all subfolders
+                    for md_file in folder_path.rglob("*.md"):
                         if md_file.name == "index.md":
                             continue
                         # Read front matter to match title
@@ -76,9 +77,16 @@ def load_article_mapping():
                             # Normalize for comparison
                             if normalize_text(file_title) in normalize_text(title) or \
                                normalize_text(title) in normalize_text(file_title):
-                                # Create local path
-                                slug = md_file.stem
-                                local_path = f"/{folder}/{slug}/"
+                                # Create local path with relative subfolder
+                                relative_path = md_file.relative_to(folder_path)
+                                if len(relative_path.parts) > 1:
+                                    # File is in a subfolder
+                                    subfolder = relative_path.parent
+                                    slug = md_file.stem
+                                    local_path = f"/{folder}/{subfolder}/{slug}/"
+                                else:
+                                    slug = md_file.stem
+                                    local_path = f"/{folder}/{slug}/"
                                 ARTICLE_MAP[article_id] = local_path
                                 break
 
@@ -95,6 +103,22 @@ def convert_intercom_link(url):
         if article_id in ARTICLE_MAP:
             return ARTICLE_MAP[article_id]
     
+    # Handle collection links (point to category index)
+    collection_match = re.search(r'/collections/(\d+)', url)
+    if collection_match:
+        collection_id = collection_match.group(1)
+        collection_map = {
+            "11138833": "/getting-started/",
+            "11138938": "/strategy/",
+            "11138946": "/indicators-and-features/",
+            "11139270": "/general/",
+            "11337275": "/discord-community/",
+            "11728897": "/bigresearch/",
+            "11728932": "/strategy/trading-walkthroughs/",  # Trading Walkthroughs subcollection
+        }
+        if collection_id in collection_map:
+            return collection_map[collection_id]
+    
     return None
 
 def process_file(file_path, dry_run=False):
@@ -105,9 +129,9 @@ def process_file(file_path, dry_run=False):
     original_content = content
     changes = []
     
-    # Find all Intercom links
-    # Pattern: [text](https://intercom.help/bigshort/en/articles/...)
-    pattern = r'\[([^\]]+)\]\((https://intercom\.help/bigshort/en/articles/[^\)]+)\)'
+    # Find all Intercom links (both intercom.help and help.bigshort.com)
+    # Pattern: [text](https://intercom.help/bigshort/en/articles/...) or [text](https://help.bigshort.com/en/articles/...)
+    pattern = r'\[([^\]]+)\]\((https://(?:intercom\.help/bigshort|help\.bigshort\.com)/en/(?:articles|collections)/[^\)]+)\)'
     
     def replace_link(match):
         text = match.group(1)

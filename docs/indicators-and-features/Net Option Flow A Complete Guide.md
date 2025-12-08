@@ -5,7 +5,7 @@ parent: Indicators & Features
 nav_order: 3
 ---
 
-Net Option Flow (NOF) is a key feature in BigShort, providing traders with insights into market sentiment by analyzing real-time options activity. Whether you’re looking at [SmartFlow](/getting-started/SmartFlow Tab/), [SF Segregated](/getting-started/SF Segregated Tab/), or [Ultraflow](/getting-started/Understanding the UltraFlow Tab/) in BigShort the Net Option Flow chart equips you with powerful tools to uncover trading opportunities.
+Net Option Flow (NOF) is a key feature in BigShort, providing traders with insights into market sentiment by analyzing real-time options activity. Whether you’re looking at [SmartFlow](/getting-started/platform-tabs/SmartFlow Tab/), [SF Segregated](/getting-started/platform-tabs/SF Segregated Tab/), or [Ultraflow](/getting-started/platform-tabs/Understanding the UltraFlow Tab/) in BigShort the Net Option Flow chart equips you with powerful tools to uncover trading opportunities.
 
 This guide explains what Net Option Flow is, where to find it, and how to interpret the chart to integrate it into your trading strategy.
 
@@ -53,11 +53,11 @@ While traditional volume simply adds up all activity (buys and sells combined), 
 
 The Net Option Flow chart is visible in these sections of BigShort:
 
-  * **[SmartFlow](/getting-started/SmartFlow Tab/)**
+  * **[SmartFlow](/getting-started/platform-tabs/SmartFlow Tab/)**
 
-  * **[SF Segregated](/getting-started/SF Segregated Tab/)**
+  * **[SF Segregated](/getting-started/platform-tabs/SF Segregated Tab/)**
 
-  * **[Ultraflow](/getting-started/Understanding the UltraFlow Tab/)**
+  * **[Ultraflow](/getting-started/platform-tabs/Understanding the UltraFlow Tab/)**
 
 
 In each section, you’ll find the Net Option Flow chart, which visualizes the three key metrics.
@@ -199,7 +199,7 @@ Picture two opponents both pulling a rope in tug of war. Person 1 is exerting 10
 
 # Martian Net Option Flow
 
-As of April 2025, "Martian Net Option Flow" and "Martian NOFA" were added as th default to three charts - [SF Segregated](/getting-started/SF Segregated Tab/), [SmartFlow](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/), [UltraFlow](https://help.bigshort.com/en/articles/10442189-understanding-the-ultraflow-tab). "Martian Net Option Flow" and "Martian NOFA" was discovered by one of our own users (@Martian) and displays Net Option Flow slightly differently by subtracting the Net Unusual Option Premium from the Net Option Flow.   
+As of April 2025, "Martian Net Option Flow" and "Martian NOFA" were added as th default to three charts - [SF Segregated](/getting-started/platform-tabs/SF Segregated Tab/), [SmartFlow](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/), [UltraFlow](/getting-started/platform-tabs/Understanding the UltraFlow Tab/). "Martian Net Option Flow" and "Martian NOFA" was discovered by one of our own users (@Martian) and displays Net Option Flow slightly differently by subtracting the Net Unusual Option Premium from the Net Option Flow.   
   
 NOF is made of 2 components: Regular Options Flows and Unusual Options Flows.
 

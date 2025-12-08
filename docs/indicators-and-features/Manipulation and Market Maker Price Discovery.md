@@ -9,7 +9,7 @@ nav_order: 6
 
 Manipulation and Market Maker Price Discovery (MMPD) are two of our most exciting proprietary indicators, but they’re still in the early stages of development. While we can’t disclose their exact workings, this article will help you understand a bit more about them. For more information on these indicators, our [Discord community](/discord-community/How to Join our Members-Only Discord Channels/) is the best place to learn more. 
 
-Both of these indicators are found together on the same chart and can be viewed on the [SmartFlow](/getting-started/SmartFlow Tab/) and [UltraFlow](/getting-started/Understanding the UltraFlow Tab/) tabs.
+Both of these indicators are found together on the same chart and can be viewed on the [SmartFlow](/getting-started/platform-tabs/SmartFlow Tab/) and [UltraFlow](/getting-started/platform-tabs/Understanding the UltraFlow Tab/) tabs.
 
 ![](/assets/images/help/indicators-and-features/Manipulation and Mar_Screenshot+2025-01-22+at+12_48_03+PM.png)
 

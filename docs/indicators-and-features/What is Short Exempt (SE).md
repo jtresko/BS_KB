@@ -18,7 +18,7 @@ High SE readings very often come immediately before large volatile moves in a st
 
 # How do I find SE on BigShort?
 
-You can find the Top 10 Short Exempt tickers in the[ Dashboard tab](https://help.bigshort.com/en/articles/10362240-dashboard-top-10s). There you'll find stocks that are likely to experience significant volatility. See below in Pink. Notice the top two tickers on the top 10 last night, INOD and HIMS (for a [play-by-play using SE to trade HIMS](https://help.bigshort.com/en/articles/10630102-how-bigshort-trader-jp24-identified-hims-for-a-14-move-today) read this).  
+You can find the Top 10 Short Exempt tickers in the[ Dashboard tab](/getting-started/platform-tabs/Dashboard & Top 10s/). There you'll find stocks that are likely to experience significant volatility. See below in Pink. Notice the top two tickers on the top 10 last night, INOD and HIMS (for a [play-by-play using SE to trade HIMS](https://help.bigshort.com/en/articles/10630102-how-bigshort-trader-jp24-identified-hims-for-a-14-move-today) read this).  
 
 
 ![](/assets/images/help/indicators-and-features/What is Short Exempt_20250223+-+Dashboard.png)
@@ -60,6 +60,6 @@ For those curious, here's a bit about what's happening under the hood with SE. S
 
 # Learn More
 
-  * [Learn more about using SE for Swing Trading](https://help.bigshort.com/en/articles/10582547-using-short-exempt-se-for-swing-trading)
+  * [Learn more about using SE for Swing Trading](/strategy/user-strategies/Using Short Exempt (SE) for Swing Trading/)
 
   * [An example trade of $HIMS with Short Exempt](https://help.bigshort.com/en/articles/10630102-how-bigshort-trader-jp24-identified-hims-for-a-14-move-today)

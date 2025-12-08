@@ -24,11 +24,11 @@ In summary:
 
 BigShort is the only platform that displays dark pools directly on our charts so you can easily spot support and resistance levels. You can analyze dark pool activity in the following sections of the software:
 
-  * **[SmartFlow](/getting-started/SmartFlow Tab/)**[:](/getting-started/SmartFlow Tab/) Dark pools shown for any ticker in real time 
+  * **[SmartFlow](/getting-started/platform-tabs/SmartFlow Tab/)**[:](/getting-started/platform-tabs/SmartFlow Tab/) Dark pools shown for any ticker in real time 
 
-  * **[SF Segregated](/getting-started/SF Segregated Tab/)**[:](/getting-started/SF Segregated Tab/) Dark pools shown for any ticker in real time
+  * **[SF Segregated](/getting-started/platform-tabs/SF Segregated Tab/)**[:](/getting-started/platform-tabs/SF Segregated Tab/) Dark pools shown for any ticker in real time
 
-  * **[UltraFlow](/getting-started/Understanding the UltraFlow Tab/)**[:](/getting-started/Understanding the UltraFlow Tab/) Dark pools shown for selected indexes in real time
+  * **[UltraFlow](/getting-started/platform-tabs/Understanding the UltraFlow Tab/)**[:](/getting-started/platform-tabs/Understanding the UltraFlow Tab/) Dark pools shown for selected indexes in real time
 
   * **DarkFlow:** filtered dark pool activity shown for Top 100 tickers by dark pool volume  
 

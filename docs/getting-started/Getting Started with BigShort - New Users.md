@@ -5,10 +5,10 @@ parent: Getting Started
 nav_order: 1
 ---
 
-First, before the trading day starts, or even on the previous day, we recommend taking a look at the [Seasonality Tab](/getting-started/Understanding the Seasonality Tab/). This shows the historic performance of the last 30 years of SPY per calendar date. While Seasonality is a weaker force in the market, it’s good to give a general directional bias for the day.  
+First, before the trading day starts, or even on the previous day, we recommend taking a look at the [Seasonality Tab](/getting-started/platform-tabs/Understanding the Seasonality Tab/). This shows the historic performance of the last 30 years of SPY per calendar date. While Seasonality is a weaker force in the market, it’s good to give a general directional bias for the day.  
 
 
-**If you’re just getting started, we recommend looking at the[SF Segregated chart.](/getting-started/SF Segregated Tab/)**
+**If you’re just getting started, we recommend looking at the[SF Segregated chart.](/getting-started/platform-tabs/SF Segregated Tab/)**
 
 ![](/assets/images/help/getting-started/Getting Started with_0-chart.png)
 

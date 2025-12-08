@@ -37,7 +37,7 @@ So while hidden orders have some advantages over hanging limit orders, they're n
 
 # Protect Your Interests with Spodin
 
-Given the significant downsides of using these order types or other alert systems embedded in brokerage accounts, the safest way to execute your trades is to wait until your desired price hits, and only then submit a limit order for either the midpoint or the bid/ask such that it executes immediately. [Spodin](https://help.bigshort.com/en/articles/10389267-what-the-hell-is-spodin) is our proprietary closed-system alert; with it, you can set personalized price alerts that are sent directly to your phone via call or text when specific price levels are reached. By using Spodin, you can rest assured that your price alerts remain confidential and secure, which eliminates the risk of your trading intentions being exploited by market makers.
+Given the significant downsides of using these order types or other alert systems embedded in brokerage accounts, the safest way to execute your trades is to wait until your desired price hits, and only then submit a limit order for either the midpoint or the bid/ask such that it executes immediately. [Spodin](/indicators-and-features/What the Hell Is Spodin/) is our proprietary closed-system alert; with it, you can set personalized price alerts that are sent directly to your phone via call or text when specific price levels are reached. By using Spodin, you can rest assured that your price alerts remain confidential and secure, which eliminates the risk of your trading intentions being exploited by market makers.
 
 # Conclusion
 

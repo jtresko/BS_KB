@@ -48,7 +48,7 @@ SmartFlow reflects algorithmic, automated trading activity. It often includes hi
 
 # Reading SmartFlow and MomoFlow Charts
 
-The easiest place to see SmartFlow and MomoFlow is in the [SF Segregated tab](/getting-started/SF Segregated Tab/). As the name implies, in this section, SmartFlow and MomoFlow are separated into two graphs for ease of analysis.
+The easiest place to see SmartFlow and MomoFlow is in the [SF Segregated tab](/getting-started/platform-tabs/SF Segregated Tab/). As the name implies, in this section, SmartFlow and MomoFlow are separated into two graphs for ease of analysis.
 
 ![](/assets/images/help/indicators-and-features/Understanding SmartF_SF+-+MF+-+SF+Seg.png)
 
@@ -85,7 +85,7 @@ The **red line** on the chart is the accumulation tally of the activity on the c
 
 ## Combined Chart
 
-You can also view SmartFlow and MomoFlow data in the [SmartFlow tab](/getting-started/SmartFlow Tab/) of BigShort. Unlike in SF Segregated, in this section, the charts are combined.
+You can also view SmartFlow and MomoFlow data in the [SmartFlow tab](/getting-started/platform-tabs/SmartFlow Tab/) of BigShort. Unlike in SF Segregated, in this section, the charts are combined.
 
 ![](/assets/images/help/indicators-and-features/Understanding SmartF_SF+-+Combined+Chart.png)
 
