@@ -2,8 +2,7 @@
 title: "The Daily Trading Coach - Brett Steenbarger"
 layout: default
 parent: BigResearch
-grand_parent: Help Center
-nav_order: 7
+nav_order: 9
 ---
 
 BigShort community members suggest their absolute favorite trading books for this library, so we can learn from one another. User @MacZaddy suggested **[“The Daily Trading Coach” by Brett Steenbarger](https://www.amazon.com/Daily-Trading-Coach-Becoming-Psychologist/dp/0470398566/ref=asc_df_0470398566?mcid=9ddb0f8a43df33588435aba602d065dc&tag=hyprod-20&linkCode=df0&hvadid=693590811307&hvpos=&hvnetw=g&hvrand=12192437448211626889&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1018127&hvtargid=pla-439301269332&psc=1)**.   

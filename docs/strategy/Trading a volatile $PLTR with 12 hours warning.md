@@ -2,11 +2,10 @@
 title: "Trading a volatile $PLTR with 12 hours warning"
 layout: default
 parent: Strategy
-grand_parent: Help Center
-nav_order: 16
+nav_order: 14
 ---
 
-Data from PLTR on the [SF Segregated Tab](/docs/getting-started/SF Segregated Tab/) on February, 21st 2025 on the 5 min chart.   
+Data from PLTR on the [SF Segregated Tab](/getting-started/SF Segregated Tab/) on February, 21st 2025 on the 5 min chart.   
   
 [Click here for a direct link to the Google Slides](https://docs.google.com/presentation/d/1kUzg1I6C6VcjRDbi6d9ffCb_9eS6C1SPnpXIfE2U8XY/edit?usp=sharing) version of this presentation.
 
@@ -37,13 +36,13 @@ For more info on the indicators and patterns used in this play-by-play:
 
   * To see another example of [how to use Short Exempt to trade](https://help.bigshort.com/en/articles/10582547-using-short-exempt-se-for-swing-trading)
 
-  * To learn more about [Momo and SmartFlow](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/)
+  * To learn more about [Momo and SmartFlow](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/)
 
-  * To learn more about [Net Options Flow (NOF)](/docs/indicators-and-features/Net Option Flow A Complete Guide/)
+  * To learn more about [Net Options Flow (NOF)](/indicators-and-features/Net Option Flow A Complete Guide/)
 
-  * To learn more about [Dark Pools (DPs)](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/)
+  * To learn more about [Dark Pools (DPs)](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/)
 
-  * To learn more about the [SF Segregated](/docs/getting-started/SF Segregated Tab/) tab
+  * To learn more about the [SF Segregated](/getting-started/SF Segregated Tab/) tab
 
   * To learn more about the [Dashboard](https://help.bigshort.com/en/articles/10362240-dashboard-top-10s) tab   
 

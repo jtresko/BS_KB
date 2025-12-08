@@ -2,7 +2,6 @@
 title: "Understanding the UltraFlow Tab"
 layout: default
 parent: Getting Started
-grand_parent: Help Center
 nav_order: 13
 ---
 
@@ -58,7 +57,7 @@ If you are looking at today, these three gears show the current SF, MF, and Mani
 
 These buttons allow you to switch between a 5min candle chart (default) and other times based on your needs. You can also turn a one week historical view for broader context.
 
-This is also where you can find the button to activate SimSearch, [a feature so cool it needs it's own artcile!](/docs/indicators-and-features/Similarity Search (SimSearch)/)
+This is also where you can find the button to activate SimSearch, [a feature so cool it needs it's own artcile!](/indicators-and-features/Similarity Search (SimSearch)/)
 
 ## 4\. Chart Controls
 
@@ -75,23 +74,23 @@ These buttons provide various additional info and chart tools.
 
 ## 5\. Candlestick Chart
 
-The largest and most important pane in the chart area. Here you can see the price candlesticks and [dark pools](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/), along with other indicators like SMA and Bollinger Bands if you have enabled them in your chart settings.
+The largest and most important pane in the chart area. Here you can see the price candlesticks and [dark pools](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/), along with other indicators like SMA and Bollinger Bands if you have enabled them in your chart settings.
 
 💡 **Tip:** Remember that price and dark pools are for the ETF ticker (eg: SPY), not an aggregation of the constituent tickers.
 
 ## 6\. SmartFlow (SF) & **MomoFlow (MF)**
 
-This displays the cumulative SF and MF data for all constituent tickers of the index you selected. For more information on this chart, [click here](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/).
+This displays the cumulative SF and MF data for all constituent tickers of the index you selected. For more information on this chart, [click here](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/).
 
 ## 7\. Manipulation
 
-This chart shows the [Manipulation and MM Price Discovery](https://intercom.help/bigshort/en/articles/10444514-manipulation-and-market-maker-price-discovery) data. MM Price Discovery is reported for the index ticker and Manipulation is showing the sum of the constituent tickers.
+This chart shows the [Manipulation and MM Price Discovery](/indicators-and-features/Manipulation and Market Maker Price Discovery/) data. MM Price Discovery is reported for the index ticker and Manipulation is showing the sum of the constituent tickers.
 
 ## 8\. Net Option Flow
 
 The Net Option Flow (NOF) chart visualizes real-time sentiment in the options market by tracking net call and put premiums, unusual activity, and daily cumulative flow for all constituent tickers of the index selected. So it's not just buys and sells of calls and puts on SPY for example, but the sum of all buys and sells of calls and puts of MMM, AOS, ABT, ABBV, ACN, and the other 495 companies in the S&P 500.
 
-For more information on this indicator, [click here](/docs/indicators-and-features/Net Option Flow A Complete Guide/).
+For more information on this indicator, [click here](/indicators-and-features/Net Option Flow A Complete Guide/).
 
 ## 9\. Time Scaling
 

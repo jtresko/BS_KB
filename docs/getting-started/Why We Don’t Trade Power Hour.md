@@ -2,8 +2,7 @@
 title: "Why We Don’t Trade Power Hour"
 layout: default
 parent: Getting Started
-grand_parent: Help Center
-nav_order: 14
+nav_order: 4
 ---
 
 # Introduction

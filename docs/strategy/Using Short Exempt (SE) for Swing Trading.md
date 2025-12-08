@@ -2,8 +2,7 @@
 title: "Using Short Exempt (SE) for Swing Trading"
 layout: default
 parent: Strategy
-grand_parent: Help Center
-nav_order: 20
+nav_order: 5
 ---
 
 **Disclaimer:** This article was written by a BigShort community member and reflects their personal trading strategy. It is not reviewed or endorsed by BigShort and is provided for informational and educational purposes only. Always do your own research before making trading decisions.
@@ -12,7 +11,7 @@ nav_order: 20
 
 Today we're going to learn about how to trade using the [Short Exempt](https://help.bigshort.com/en/articles/10629795-what-is-short-exempt-se) indicators on BigShort. For swing traders in particular, this signal can mean the difference between financial independence or leaving your day job, and fighting for profitability.  
   
-This trade starts on the [Dashboard tab](https://intercom.help/bigshort/en/articles/10362240-dashboard-top-10s) in BigShort (yellow box, below). Look for Top 10 SE (blue box, below):
+This trade starts on the [Dashboard tab](/getting-started/Dashboard & Top 10s/) in BigShort (yellow box, below). Look for Top 10 SE (blue box, below):
 
 ![](/assets/images/help/strategy/Using Short Exempt (_Top10+SE.png)
 

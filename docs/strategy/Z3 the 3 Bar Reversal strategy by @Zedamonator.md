@@ -1,9 +1,8 @@
 ---
-title: ""
+title: "Z3: The 3 Bar Reversal Strategy by @Zedamonator"
 layout: default
 parent: Strategy
-grand_parent: Help Center
-nav_order: 23
+nav_order: 7
 ---
 
 **Disclaimer:** This article was written by a BigShort community member and reflects their personal trading strategy. It is not reviewed or endorsed by BigShort and is provided for informational and educational purposes only. Always do your own research before making trading decisions.
@@ -12,7 +11,7 @@ nav_order: 23
 
 # **Overview**
 
-BigShort trader Zedamonator's “3 Bar Reversal” is a price action strategy enhanced by BigShort’s [Momo "Shadow Bars"](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/) indicator, designed to identify high-probability entries by anticipating retail trader stop-loss hunts by market makers. It works best in combination with overall trend awareness, offering opportunities both with and counter to prevailing trends.   
+BigShort trader Zedamonator's “3 Bar Reversal” is a price action strategy enhanced by BigShort’s [Momo "Shadow Bars"](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/) indicator, designed to identify high-probability entries by anticipating retail trader stop-loss hunts by market makers. It works best in combination with overall trend awareness, offering opportunities both with and counter to prevailing trends.   
   
 The deepest discussion of this trade was on the Discord Friday February 28th, 2025. [Link to that discussion](https://discord.com/channels/1098243246699860018/1286480342009774080/1345073956813799505) (Subscribers only).
 
@@ -31,7 +30,7 @@ The deepest discussion of this trade was on the Discord Friday February 28th, 20
 
 ## **Watch Momo's Shadow Bars**
 
-  * Shadow Bars reveal the behavior of retail traders (“MOMO”) versus institutional traders (“[Smart Money](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/)” & “Market Makers”).
+  * Shadow Bars reveal the behavior of retail traders (“MOMO”) versus institutional traders (“[Smart Money](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/)” & “Market Makers”).
 
   * Look for Shadow Bars pointing opposite the direction you want to trade (note: these are reversed after a long break or weekend):
 

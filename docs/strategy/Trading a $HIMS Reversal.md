@@ -2,11 +2,10 @@
 title: "Trading a $HIMS Reversal"
 layout: default
 parent: Strategy
-grand_parent: Help Center
-nav_order: 15
+nav_order: 12
 ---
 
-Data from HIMS on the [SF Segregated Tab](/docs/getting-started/SF Segregated Tab/) on February 14th 2025, 5 min chart.   
+Data from HIMS on the [SF Segregated Tab](/getting-started/SF Segregated Tab/) on February 14th 2025, 5 min chart.   
   
 [Click here for a direct link to the Google Slides](https://docs.google.com/presentation/d/1B6-UCv7GpVFWoRyxBoPrZDZOe3W5zF1f1K53yMnATnI/edit?usp=sharing) version of this presentation.   
   
@@ -37,8 +36,8 @@ A note to up your game:
   
 For more info on the indicators and patterns used in this play-by-play:
 
-  * To learn more about the [SF Segregated](/docs/getting-started/SF Segregated Tab/) tab
+  * To learn more about the [SF Segregated](/getting-started/SF Segregated Tab/) tab
 
-  * To learn more about [Net Options Flow (NOF)](/docs/indicators-and-features/Net Option Flow A Complete Guide/)
+  * To learn more about [Net Options Flow (NOF)](/indicators-and-features/Net Option Flow A Complete Guide/)
 
-  * To learn more about [Momo and SmartFlow](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/)
+  * To learn more about [Momo and SmartFlow](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/)

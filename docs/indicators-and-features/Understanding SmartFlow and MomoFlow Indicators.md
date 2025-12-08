@@ -2,8 +2,7 @@
 title: "Understanding SmartFlow and MomoFlow Indicators"
 layout: default
 parent: Indicators & Features
-grand_parent: Help Center
-nav_order: 5
+nav_order: 4
 ---
 
 SmartFlow (SF) and MomoFlow (MF) are two core features of BigShort’s trading toolkit, designed to provide insights into market activity and enhance your decision-making process. Understanding the differences between these two indicators will help you interpret market signals more effectively and build a balanced trading strategy.
@@ -49,7 +48,7 @@ SmartFlow reflects algorithmic, automated trading activity. It often includes hi
 
 # Reading SmartFlow and MomoFlow Charts
 
-The easiest place to see SmartFlow and MomoFlow is in the [SF Segregated tab](/docs/getting-started/SF Segregated Tab/). As the name implies, in this section, SmartFlow and MomoFlow are separated into two graphs for ease of analysis.
+The easiest place to see SmartFlow and MomoFlow is in the [SF Segregated tab](/getting-started/SF Segregated Tab/). As the name implies, in this section, SmartFlow and MomoFlow are separated into two graphs for ease of analysis.
 
 ![](/assets/images/help/indicators-and-features/Understanding SmartF_SF+-+MF+-+SF+Seg.png)
 
@@ -86,7 +85,7 @@ The **red line** on the chart is the accumulation tally of the activity on the c
 
 ## Combined Chart
 
-You can also view SmartFlow and MomoFlow data in the [SmartFlow tab](https://intercom.help/bigshort/en/articles/10445405-smartflow-tab) of BigShort. Unlike in SF Segregated, in this section, the charts are combined.
+You can also view SmartFlow and MomoFlow data in the [SmartFlow tab](/getting-started/SmartFlow Tab/) of BigShort. Unlike in SF Segregated, in this section, the charts are combined.
 
 ![](/assets/images/help/indicators-and-features/Understanding SmartF_SF+-+Combined+Chart.png)
 
@@ -147,4 +146,4 @@ This occurs because when one side of the market becomes too crowded, a smaller v
 
 Both SmartFlow and MomoFlow are essential for comprehensive market analysis. MomoFlow helps you understand human sentiment and discretionary moves, while SmartFlow offers a window into algorithmic and potentially manipulative activities. Together, they provide a balanced view of market dynamics.
 
-As BigShort's founder often notes, neither flow tells the whole story on its own. Use them alongside other BigShort indicators, such as [NOF](/docs/indicators-and-features/Net Option Flow A Complete Guide/) and [dark pool](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/) data, to form a complete picture of market activity.
+As BigShort's founder often notes, neither flow tells the whole story on its own. Use them alongside other BigShort indicators, such as [NOF](/indicators-and-features/Net Option Flow A Complete Guide/) and [dark pool](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/) data, to form a complete picture of market activity.

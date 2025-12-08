@@ -2,11 +2,10 @@
 title: "SmartFlow Tab"
 layout: default
 parent: Getting Started
-grand_parent: Help Center
-nav_order: 10
+nav_order: 15
 ---
 
-💡**Tip:** As stated in our [New User Guide](/docs/getting-started/Getting Started with BigShort - New Users/), we recommend that new users start in the [SF Segregated Tab](/docs/getting-started/SF Segregated Tab/), not here in the SmartFlow tab.
+💡**Tip:** As stated in our [New User Guide](/getting-started/Getting Started with BigShort - New Users/), we recommend that new users start in the [SF Segregated Tab](/getting-started/SF Segregated Tab/), not here in the SmartFlow tab.
 
 ![](/assets/images/help/getting-started/SmartFlow Tab_BigShort-01-22-2025_02_57_PM.png)
 
@@ -41,11 +40,11 @@ These buttons provide various additional info and chart tools.
 
 # 5\. Candlestick Chart
 
-The largest and most important pane in the chart area. Here you can see the price candlesticks and [dark pools](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/), alone with other indicators like SMA and Bollinger Bands if you have enabled them in your chart settings.
+The largest and most important pane in the chart area. Here you can see the price candlesticks and [dark pools](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/), alone with other indicators like SMA and Bollinger Bands if you have enabled them in your chart settings.
 
 # 6\. SmartFlow (SF) & **MomoFlow (MF)**
 
-This displays the SF and MF data. For a deep dive on the SF and MF indicators, [click here.](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/)
+This displays the SF and MF data. For a deep dive on the SF and MF indicators, [click here.](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/)
 
 The colors coding in this chart are:
 
@@ -64,11 +63,11 @@ The colors coding in this chart are:
 
 # 7\. Manipulation
 
-This chart shows the [Manipulation and MM Price Discovery](https://intercom.help/bigshort/en/articles/10444514-manipulation-and-market-maker-price-discovery) data.
+This chart shows the [Manipulation and MM Price Discovery](/indicators-and-features/Manipulation and Market Maker Price Discovery/) data.
 
 # 8\. Net Options Flow
 
-The Net Options Flow (NOF) chart visualizes real-time sentiment in the options market by tracking net call and put premiums, unusual activity, and daily cumulative flow. By differentiating between buying (upward) and selling (downward) activity, the chart provides actionable insights into market trends and potential reversals. For more information on this indicator, [click here](/docs/indicators-and-features/Net Option Flow A Complete Guide/).
+The Net Options Flow (NOF) chart visualizes real-time sentiment in the options market by tracking net call and put premiums, unusual activity, and daily cumulative flow. By differentiating between buying (upward) and selling (downward) activity, the chart provides actionable insights into market trends and potential reversals. For more information on this indicator, [click here](/indicators-and-features/Net Option Flow A Complete Guide/).
 
 # 9\. Time Scaling
 

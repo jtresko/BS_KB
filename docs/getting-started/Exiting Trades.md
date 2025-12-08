@@ -2,8 +2,7 @@
 title: "Exiting Trades"
 layout: default
 parent: Getting Started
-grand_parent: Help Center
-nav_order: 3
+nav_order: 6
 ---
 
 Even though finding a good trade is the thing traders love to talk about most, it's at least as important to nail the exit. BigShort makes it easy for traders time their exits to maximize profit and avoid a painful turn.   
@@ -48,10 +47,10 @@ If you prefer, [page through the presentation on your own](https://docs.google.c
 
 Discussed in this post:
 
-  * To learn more about [MomoFlow and SmartFlow](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/)
+  * To learn more about [MomoFlow and SmartFlow](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/)
 
-  * To learn more about [Net Option Flow, NOFA, and Gold + Bronze Sweeps](/docs/indicators-and-features/Net Option Flow A Complete Guide/)
+  * To learn more about [Net Option Flow, NOFA, and Gold + Bronze Sweeps](/indicators-and-features/Net Option Flow A Complete Guide/)
 
-  * To learn more about [Dark Pools](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/)
+  * To learn more about [Dark Pools](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/)
 
-  * To learn more about the [SF Segregated tab](/docs/getting-started/SF Segregated Tab/) used for these trades
+  * To learn more about the [SF Segregated tab](/getting-started/SF Segregated Tab/) used for these trades

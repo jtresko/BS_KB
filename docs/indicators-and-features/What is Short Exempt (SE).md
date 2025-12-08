@@ -2,8 +2,7 @@
 title: "What is Short Exempt (SE)?"
 layout: default
 parent: Indicators & Features
-grand_parent: Help Center
-nav_order: 6
+nav_order: 7
 ---
 
 If you're not in already - join the BigShort Discord. As one trader puts it "this is the crown jewel of the whole thing!"  
@@ -56,7 +55,7 @@ For those curious, here's a bit about what's happening under the hood with SE. S
 
   * **Watch for Unusual Shorting Activity** : Short exempt orders can move a stock’s price aggressively during SSR periods.
 
-  * **Corroborate Signals** : Combine short exempt data with other BigShort indicators to build confidence in the direction and duration of the trade — [Net Options Flow](/docs/indicators-and-features/Net Option Flow A Complete Guide/), [Dark Pools](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/), and [MomoFlow](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/) to gauge market sentiment. Enter if a confluence of signals agree.
+  * **Corroborate Signals** : Combine short exempt data with other BigShort indicators to build confidence in the direction and duration of the trade — [Net Options Flow](/indicators-and-features/Net Option Flow A Complete Guide/), [Dark Pools](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/), and [MomoFlow](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/) to gauge market sentiment. Enter if a confluence of signals agree.
 
 
 # Learn More

@@ -2,11 +2,10 @@
 title: "An Unexpected $SPY Reversal"
 layout: default
 parent: Strategy
-grand_parent: Help Center
-nav_order: 1
+nav_order: 13
 ---
 
-This is an example of how BigShort can help traders. Data from SPY on the [SF Segregated Tab](/docs/getting-started/SF Segregated Tab/) on February 3rd, 2025, 5 min chart.   
+This is an example of how BigShort can help traders. Data from SPY on the [SF Segregated Tab](/getting-started/SF Segregated Tab/) on February 3rd, 2025, 5 min chart.   
   
 [Click here for a direct link to the Google Slides](https://docs.google.com/presentation/d/11Yo_azCYPh5bhdP7tl6FH1EENdpsTHYSwqymGJx5lmw/edit?usp=sharing) version of this presentation.  
 
@@ -48,13 +47,13 @@ A note to up your game:
   
 For more info on the indicators and patterns used in this play-by-play:
 
-  * To learn more about the [SF Segregated](/docs/getting-started/SF Segregated Tab/) tab
+  * To learn more about the [SF Segregated](/getting-started/SF Segregated Tab/) tab
 
-  * To learn more about [Net Options Flow (NOF)](/docs/indicators-and-features/Net Option Flow A Complete Guide/)
+  * To learn more about [Net Options Flow (NOF)](/indicators-and-features/Net Option Flow A Complete Guide/)
 
-  * To learn more about [Momo and SmartFlow](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/)
+  * To learn more about [Momo and SmartFlow](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/)
 
-  * To learn more about [Dark Pools (DPs)](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/)  
+  * To learn more about [Dark Pools (DPs)](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/)  
   
 
 

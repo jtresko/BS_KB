@@ -2,8 +2,7 @@
 title: "Joe from Cup of Joe Trading Explains his Premarket Strategy (video)"
 layout: default
 parent: Strategy
-grand_parent: Help Center
-nav_order: 5
+nav_order: 9
 ---
 
 **Disclaimer:** This article was written by a BigShort community member and reflects their personal trading strategy. It is not reviewed or endorsed by BigShort and is provided for informational and educational purposes only. Always do your own research before making trading decisions.

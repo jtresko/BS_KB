@@ -2,8 +2,7 @@
 title: "Understanding the Seasonality Tab"
 layout: default
 parent: Getting Started
-grand_parent: Help Center
-nav_order: 12
+nav_order: 9
 ---
 
 The **Seasonality** tab in BigShort provides a unique perspective on the historical performance of SPY, broken down by **calendar date** and **day of the week**. This tool helps traders identify patterns and trends that have occurred consistently over the past 30 years, offering insights that can add an extra layer to your trading strategy.
@@ -52,7 +51,7 @@ The **Seasonality** tab in BigShort provides a unique perspective on the histori
 
      * Seasonality is a **weaker force** in the market compared to real-time indicators, but it can help frame your strategy.
 
-     * Use it as an additional layer of analysis alongside tools like [SmartFlow](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/), [Dark Pools](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/), and other proprietary BigShort indicators.
+     * Use it as an additional layer of analysis alongside tools like [SmartFlow](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/), [Dark Pools](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/), and other proprietary BigShort indicators.
 
 
 # **Pro Tips for Using Seasonality**

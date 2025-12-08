@@ -2,8 +2,7 @@
 title: "Options, Futures, and Other Derivatives - John C. Hull"
 layout: default
 parent: BigResearch
-grand_parent: Help Center
-nav_order: 6
+nav_order: 11
 ---
 
 In Tae's Corner we bring you Tae's favorite trading books, strategies, and breakdowns so you can learn from the best.   

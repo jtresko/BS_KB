@@ -1,15 +1,21 @@
-title: BigShort Knowledge Base
-description: A knowledge base for BigShort
+title: BigShort Help Center
+description: Guides, tutorials, and documentation to help you get the most out of BigShort
 theme: just-the-docs
 
 url: https://jtresko.github.io/BS_KB
 
 repository: https://github.com/jtresko/BS_KB # for github-metadata
 
+# Logo - displays in top left of navigation
+logo: "/assets/images/bs_logo.png"
+
 nav_enabled: true
 heading_anchors: true
 
 color_scheme: dark
+
+# Hide "Just the Docs" branding
+gh_edit_link: false
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -79,6 +85,24 @@ plugins:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: 'Copyright 2025 BigShort'
-# aux_links:
-#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+footer_content: '© 2025 BigShort. All rights reserved.'
+
+# Auxiliary links in the header
+aux_links:
+  BigShort App: https://bigshort.com
+
+# Makes aux links open in new tab
+aux_links_new_tab: true
+
+# Custom callouts
+callouts_level: quiet
+callouts:
+  tip:
+    title: Tip
+    color: green
+  note:
+    title: Note
+    color: blue
+  warning:
+    title: Warning
+    color: yellow

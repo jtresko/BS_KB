@@ -1,9 +1,8 @@
 ---
-title: "How to Join BigShort"
+title: "How to Join BigShort's Public Discord Server"
 layout: default
 parent: Discord Community
-grand_parent: Help Center
-nav_order: 2
+nav_order: 1
 ---
 
 If you'd like to join our public Discord server, click here: <https://discord.com/invite/6w22gAVzMB>

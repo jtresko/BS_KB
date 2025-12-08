@@ -2,8 +2,7 @@
 title: "How to Change your Payment Method"
 layout: default
 parent: General
-grand_parent: Help Center
-nav_order: 3
+nav_order: 4
 ---
 
 To change your payment method, sign into app.bigshort.com, then click on the down caret in the upper right-hand corner, and select "Customer Portal."

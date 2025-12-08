@@ -2,8 +2,7 @@
 title: "Why You Should Rethink Setting Stop Losses and Hanging Limit Orders"
 layout: default
 parent: Getting Started
-grand_parent: Help Center
-nav_order: 15
+nav_order: 3
 ---
 
 Stock traders commonly use hanging [limit orders](https://www.investopedia.com/terms/l/limitorder.asp) to enter trades at lower prices or to secure profits at higher prices. Traders also use stop loss orders, stop-limit orders, or trailing stops to limit losses and protect capital. Despite their prevalence, these order types are ultimately harmful to traders.

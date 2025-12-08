@@ -2,13 +2,12 @@
 title: "Head and Shoulders Patterns with BigShort"
 layout: default
 parent: Strategy
-grand_parent: Help Center
 nav_order: 3
 ---
 
 BigShort turns trading the classic Head and Shoulders pattern on its head, giving traders the confidence to pinpoint entries and exits like pros. With advanced indicators and intuitive tools, BigShort makes identifying and trading this popular reversal pattern easier and more consistent.
 
-Below, you’ll learn how to spot a Head and Shoulders pattern and how to trade it more profitably with [Net Options Flow](/docs/indicators-and-features/Net Option Flow A Complete Guide/) (NOF), [DarkPools](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/), and other exclusive, institution-following signals.
+Below, you’ll learn how to spot a Head and Shoulders pattern and how to trade it more profitably with [Net Options Flow](/indicators-and-features/Net Option Flow A Complete Guide/) (NOF), [DarkPools](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/), and other exclusive, institution-following signals.
 
 # **What Is a Head and Shoulders Pattern?**
 
@@ -28,7 +27,7 @@ To spot a Head and Shoulders pattern:
 
   3. Confirm the neckline, which connects the low points between the shoulders and the head.
 
-  4. Use BigShort’s institutional-tracking signals, such as **[Net Options Flow](/docs/indicators-and-features/Net Option Flow A Complete Guide/)** or **[Dark Pools](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/)** , to confirm whether institutional and/or algorithmic players are aligning for a reversal
+  4. Use BigShort’s institutional-tracking signals, such as **[Net Options Flow](/indicators-and-features/Net Option Flow A Complete Guide/)** or **[Dark Pools](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/)** , to confirm whether institutional and/or algorithmic players are aligning for a reversal
 
 
 BigShort’s automated tools help remove the guesswork, alerting you when a potential Head and Shoulders pattern is likely to play out (become bearish) or become invalidated enabling you to avoid losses and maximize gains.  
@@ -43,12 +42,12 @@ BigShort’s data can show you whether the head and shoulders is being driven by
 
   2. **BigShort Makes You Confident:** For a traditional head and shoulders (bearish) pattern, look for bearish signs from institutional investors which are easy to see in BigShort. Look for these signs:  
   
-**Bearish[Net Options Flow](/docs/indicators-and-features/Net Option Flow A Complete Guide/) (NOF) Pyramids** (Purple pointing up, blue pointing down, the larger the more bearish)
+**Bearish[Net Options Flow](/indicators-and-features/Net Option Flow A Complete Guide/) (NOF) Pyramids** (Purple pointing up, blue pointing down, the larger the more bearish)
 
 ![](/assets/images/help/strategy/Head and Shoulders P_Bearish+Net+Options+Flow.png)
 
   
-**Bearish[Dark Pools](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/)** (grey circles above the price action, the larger and more numerous, the more bearish)
+**Bearish[Dark Pools](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/)** (grey circles above the price action, the larger and more numerous, the more bearish)
 
 ![](/assets/images/help/strategy/Head and Shoulders P_Bearish+Dark+Pools.png)
 

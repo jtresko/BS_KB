@@ -2,7 +2,6 @@
 title: "How Do I Find Good Trades?"
 layout: default
 parent: Getting Started
-grand_parent: Help Center
 nav_order: 5
 ---
 
@@ -24,14 +23,14 @@ First Step - Check the Dashboard tab
 
 On the [dashboard tab](https://help.bigshort.com/en/articles/10362240-dashboard-top-10s) (pink box, above) you'll find:
 
-  * Left - Top 10 NOFA - the cumulative measurement of [Net Options Flow](/docs/indicators-and-features/Net Option Flow A Complete Guide/) activity
+  * Left - Top 10 NOFA - the cumulative measurement of [Net Options Flow](/indicators-and-features/Net Option Flow A Complete Guide/) activity
 
-  * Center - Top 10 Positive [MomoFlow or Smartflow](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/) \- toggle between the two on the top right of the page by clicking the gear (blue box, above)
+  * Center - Top 10 Positive [MomoFlow or Smartflow](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/) \- toggle between the two on the top right of the page by clicking the gear (blue box, above)
 
   * Right - Top 10 SE - stocks with the highest short exempt volume
 
 
-These show you real time insight into what tickers have heavy activity - these are great trading ideas. To dive into each ticker, just click and you'll be taken to the [SF Segregated](/docs/getting-started/SF Segregated Tab/) tab with that ticker loaded up, ready to analyze and trade if the signals support it.  
+These show you real time insight into what tickers have heavy activity - these are great trading ideas. To dive into each ticker, just click and you'll be taken to the [SF Segregated](/getting-started/SF Segregated Tab/) tab with that ticker loaded up, ready to analyze and trade if the signals support it.  
 
 
 # Second Step - Check the OptionFlow tab
@@ -60,7 +59,7 @@ Third Step - Check DarkFlow
 
 On the [DarkFlow](https://help.bigshort.com/en/articles/10401777-darkflow-tab) tab you'll find:
 
-  * A list of the top 100 tickers by [Dark Pool ](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/)volume
+  * A list of the top 100 tickers by [Dark Pool ](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/)volume
 
   * Whether those trades have been bullish or bearish
 
@@ -72,5 +71,5 @@ Quickly seeing which tickers have the highest Dark Pool activity, gives BigShort
 #   
 BigShort Makes it Easy
 
-BigShort makes it super easy for traders to find new trading ideas. Follow the three step process above, to quickly get new trading ideas, then dive into the ticker via [SF Segregated](/docs/getting-started/SF Segregated Tab/) to plan your exact entry.  
+BigShort makes it super easy for traders to find new trading ideas. Follow the three step process above, to quickly get new trading ideas, then dive into the ticker via [SF Segregated](/getting-started/SF Segregated Tab/) to plan your exact entry.  
   

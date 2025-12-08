@@ -2,8 +2,7 @@
 title: "How to Cancel or Pause your Subscription"
 layout: default
 parent: General
-grand_parent: Help Center
-nav_order: 1
+nav_order: 2
 ---
 
 If you'd like to pause or cancel your subscription, sign into app.bigshort.com, then click on the down caret in the upper right-hand corner, and select "Customer Portal."

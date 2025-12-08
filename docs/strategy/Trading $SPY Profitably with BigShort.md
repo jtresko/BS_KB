@@ -2,11 +2,10 @@
 title: "Trading $SPY Profitably with BigShort"
 layout: default
 parent: Strategy
-grand_parent: Help Center
-nav_order: 14
+nav_order: 11
 ---
 
-Data from SPY on the [SF Segregated Tab](/docs/getting-started/SF Segregated Tab/) on December 10, 2024, 5 min chart.   
+Data from SPY on the [SF Segregated Tab](/getting-started/SF Segregated Tab/) on December 10, 2024, 5 min chart.   
   
 [Click here for a direct link to the Google Slides](https://docs.google.com/presentation/d/1RwKF-T_lIXm2mFrpqY1Tjwn86HMoG2fwmGr-2V49AE4/edit?usp=sharing) version of this presentation.
 
@@ -39,15 +38,15 @@ Data from SPY on the [SF Segregated Tab](/docs/getting-started/SF Segregated Tab
   
 For more info on the indicators and patterns used in this play-by-play:
 
-  * To learn more about trading [Head and Shoulders Patterns](https://intercom.help/bigshort/en/articles/10533810-trading-head-and-shoulders-patterns-with-bigshort)
+  * To learn more about trading [Head and Shoulders Patterns](/strategy/Head and Shoulders Patterns with BigShort/)
 
-  * To learn more about [Net Options Flow (NOF)](/docs/indicators-and-features/Net Option Flow A Complete Guide/)
+  * To learn more about [Net Options Flow (NOF)](/indicators-and-features/Net Option Flow A Complete Guide/)
 
-  * To learn more about [Momo and SmartFlow](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/)
+  * To learn more about [Momo and SmartFlow](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/)
 
-  * To learn more about [Dark Pools (DPs)](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/)
+  * To learn more about [Dark Pools (DPs)](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/)
 
-  * To learn more about the [SF Segregated](/docs/getting-started/SF Segregated Tab/) tab  
+  * To learn more about the [SF Segregated](/getting-started/SF Segregated Tab/) tab  
   
 
 

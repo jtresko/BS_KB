@@ -2,13 +2,12 @@
 title: "Support Breakout Trades with BigShort"
 layout: default
 parent: Strategy
-grand_parent: Help Center
-nav_order: 8
+nav_order: 4
 ---
 
 ## Introduction
 
-BigShort empowers you to trade support breakout setups with precision. By leveraging advanced tools like [DarkPools](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/), [MomoFlow](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/), and [Net Option Flow (NOF)](/docs/indicators-and-features/Net Option Flow A Complete Guide/), you can identify when a key support level will hold strong and propel the price upward. This guide explains how to spot these setups and trade them with confidence.  
+BigShort empowers you to trade support breakout setups with precision. By leveraging advanced tools like [DarkPools](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/), [MomoFlow](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/), and [Net Option Flow (NOF)](/indicators-and-features/Net Option Flow A Complete Guide/), you can identify when a key support level will hold strong and propel the price upward. This guide explains how to spot these setups and trade them with confidence.  
   
 
 
@@ -41,22 +40,22 @@ A strong bullish candle (or a series of them) forming on or near support suggest
 
 BigShort’s platform offers advanced insights that give you an edge:
 
-  1. [DarkPools](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/): Reveals off-market trades that indicate institutional accumulation near support.
+  1. [DarkPools](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/): Reveals off-market trades that indicate institutional accumulation near support.
 
 ![](/assets/images/help/strategy/Support Breakout Tra_Bullish+DPs+Showing+Support+Line.png)
 
   
 
 
-  2. [MomoFlow](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/): Downward pointing shadow bars means that momo is capitulating, this is bullish.
+  2. [MomoFlow](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/): Downward pointing shadow bars means that momo is capitulating, this is bullish.
 
 ![](/assets/images/help/strategy/Support Breakout Tra_Bullish+Momo.png)
 
-  3. [SmartFlow](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/): Provides real-time activity from algorithmic funds to see if the algorithms are supporting the bounce.
+  3. [SmartFlow](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/): Provides real-time activity from algorithmic funds to see if the algorithms are supporting the bounce.
 
 ![](/assets/images/help/strategy/Support Breakout Tra_Bullish+SmartFlow.png)
 
-  4. [Net Options Flow](/docs/indicators-and-features/Net Option Flow A Complete Guide/): Shows exactly how much options money is supporting your trade in unusual options activity. For a bullish resistance bounce look for bullish net options flow right before the bounce - Large pyramids or diamonds with blue on top (call buying) and purple on bottom (put selling):
+  4. [Net Options Flow](/indicators-and-features/Net Option Flow A Complete Guide/): Shows exactly how much options money is supporting your trade in unusual options activity. For a bullish resistance bounce look for bullish net options flow right before the bounce - Large pyramids or diamonds with blue on top (call buying) and purple on bottom (put selling):
 
 ![](/assets/images/help/strategy/Support Breakout Tra_Bullish+NOF+Diamonds.png)
 

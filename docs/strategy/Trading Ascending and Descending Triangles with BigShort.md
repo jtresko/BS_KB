@@ -2,8 +2,7 @@
 title: "Trading Ascending and Descending Triangles with BigShort"
 layout: default
 parent: Strategy
-grand_parent: Help Center
-nav_order: 17
+nav_order: 2
 ---
 
 # Introduction
@@ -39,13 +38,13 @@ Observe the narrowing price range as the triangle forms. As the price gets close
 
 BigShort lets you see in advance of the breakout if institutions are participating give you maximum confidence in your entry.
 
-Use increasing[ Net Options Flow](/docs/indicators-and-features/Net Option Flow A Complete Guide/) to identify an increase in bullish options buying. Note the increase in large blue upward-pointing triangles, which indicates call buying (bullish) as well as the rising green line
+Use increasing[ Net Options Flow](/indicators-and-features/Net Option Flow A Complete Guide/) to identify an increase in bullish options buying. Note the increase in large blue upward-pointing triangles, which indicates call buying (bullish) as well as the rising green line
 
 ![](/assets/images/help/strategy/Trading Ascending an_AD_4nXfCh6LLSMvfF8uygCanxwyHVyCr-YLSyIlyBVBM6_u9xO0iFWXup4FhkLsMUPFtcNHIAPuEzQdx5NIrPGxo9PEA8ng_F6IpjoCo5DFKyE0cVQEUQ7jpeXv4g9w5d-WEt9kaNcJ9.png)
 
 ## **Get more profitable with BigShort**
 
-If[ Dark Pools](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/) (red oval, below) are present below the breakout, consider staying in the trade until the indicators begin to flip. The Dark Pools signify off market trades below the price and are strong bullish signals when in groups or when they are large.
+If[ Dark Pools](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/) (red oval, below) are present below the breakout, consider staying in the trade until the indicators begin to flip. The Dark Pools signify off market trades below the price and are strong bullish signals when in groups or when they are large.
 
 ![](/assets/images/help/strategy/Trading Ascending an_AD_4nXcOLXwk59JNGoqUfEo9SrmfVpsbzUijvW2gri7HpC2L6tmpV6wOk_Loq2O2cXSx4RSHBAyTce9fWj0dJxBcA6LT-LDSUhyPpTKSODfcgOULVcbOo7rHTtreTiffqwZMLHbR52Ha.png)
 

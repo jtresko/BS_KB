@@ -2,8 +2,7 @@
 title: "Free Money Day - SPY 4.23.25"
 layout: default
 parent: Strategy
-grand_parent: Help Center
-nav_order: 2
+nav_order: 23
 ---
 
 April 23rd, 2025 was an interesting trading day... and both Tae's recommendations and BigShort's charts helped you make easy money.  

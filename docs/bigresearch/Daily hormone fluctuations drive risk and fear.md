@@ -2,11 +2,10 @@
 title: "Daily hormone fluctuations drive risk and fear"
 layout: default
 parent: BigResearch
-grand_parent: Help Center
-nav_order: 1
+nav_order: 4
 ---
 
-[SimSearch](/docs/indicators-and-features/Similarity Search (SimSearch)/) is BigShort's daily performance prediction graph, generated dynamically each day. SimSearch and other BigShort indicators work because human decision making and performance are strongly influenced by hormones in predictable ways. This fact drives patterns in human reaction to various scenarios, which give rise to stock market patterns.  
+[SimSearch](/indicators-and-features/Similarity Search (SimSearch)/) is BigShort's daily performance prediction graph, generated dynamically each day. SimSearch and other BigShort indicators work because human decision making and performance are strongly influenced by hormones in predictable ways. This fact drives patterns in human reaction to various scenarios, which give rise to stock market patterns.  
   
 Below we've gathered and summarized the research so you can up your trading results in no time.  
 

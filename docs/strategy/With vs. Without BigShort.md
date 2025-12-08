@@ -2,8 +2,7 @@
 title: "With vs. Without BigShort"
 layout: default
 parent: Strategy
-grand_parent: Help Center
-nav_order: 22
+nav_order: 15
 ---
 
 BigShort came through for HUGE gains today (March 19th, 2025). Check out the play-by-play below.  
@@ -57,15 +56,15 @@ Here's [the PDF](https://drive.google.com/file/d/1TkZfpQ66rZoeg6Elbbko9NunYAbNcD
 
 For more info on the indicators and tab used in this analysis:
 
-  * [Momo, Shadow Bars, and Smart Flow](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/)
+  * [Momo, Shadow Bars, and Smart Flow](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/)
 
-  * [NOF, NOFA, and Sweeps](/docs/indicators-and-features/Net Option Flow A Complete Guide/)
+  * [NOF, NOFA, and Sweeps](/indicators-and-features/Net Option Flow A Complete Guide/)
 
-  * [Dark Pools](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/)
+  * [Dark Pools](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/)
 
   * [Momo Exhaustion Reversal Signal](https://exhale)
 
-  * [SF Segregated Tab](/docs/getting-started/SF Segregated Tab/)  
+  * [SF Segregated Tab](/getting-started/SF Segregated Tab/)  
 
 
 

@@ -1,13 +1,13 @@
 ---
 title: Discord Community
 layout: default
-parent: Help Center
 nav_order: 5
 has_children: true
+permalink: /discord-community/
 ---
 
 # Discord Community
 
-All things Discord
+All things Discord.
 
 Browse the articles below to learn more.

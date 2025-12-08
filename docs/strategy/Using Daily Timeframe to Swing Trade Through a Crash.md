@@ -2,8 +2,7 @@
 title: "Using Daily Timeframe to Swing Trade Through a Crash"
 layout: default
 parent: Strategy
-grand_parent: Help Center
-nav_order: 19
+nav_order: 16
 ---
 
 ##   

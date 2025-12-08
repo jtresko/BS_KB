@@ -2,8 +2,7 @@
 title: "Government Inside Traders to Copy for Profit"
 layout: default
 parent: BigResearch
-grand_parent: Help Center
-nav_order: 3
+nav_order: 2
 ---
 
 In BIG RESEARCH We use ChatGPT o1-Pro Deep Research to dive into the trading world—so you don't have to.   

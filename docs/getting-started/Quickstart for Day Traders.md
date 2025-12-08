@@ -2,7 +2,6 @@
 title: "Quickstart for Day Traders"
 layout: default
 parent: Getting Started
-grand_parent: Help Center
 nav_order: 7
 ---
 
@@ -50,7 +49,7 @@ A [high Short Exempt (SE) indicator over 1 ](https://help.bigshort.com/en/articl
 
 **Difficulty - Moderate.** Users must know how all [BigFour BigShort indicators](https://help.bigshort.com/en/articles/11002762-the-bigfour-bigshort-indicators) work and be patient enough to wait for agreement. Users must use their own discretion as to how much signal is enough for them to enter
 
-**Preparation - Moderate.** Users must read and be comfortable with the workings of the BigFour BigShort Indicators - [Dark Pools](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/), [NOF](/docs/indicators-and-features/Net Option Flow A Complete Guide/), [Momo, and SmartFlow](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/).
+**Preparation - Moderate.** Users must read and be comfortable with the workings of the BigFour BigShort Indicators - [Dark Pools](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/), [NOF](/indicators-and-features/Net Option Flow A Complete Guide/), [Momo, and SmartFlow](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/).
 
   
 
@@ -62,7 +61,7 @@ The Day-Trade channel in the Discord is extremely active throughout the trading 
   
 **Difficulty - Moderate.** Users must understand the BigFour BigShort indicators and use their own discretion on whether to follow another trader's recommendation.  
   
-**Preparation - Moderate.** Users must read and be comfortable with the workings of the BigFour BigShort Indicators - [Dark Pools](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/), [NOF](/docs/indicators-and-features/Net Option Flow A Complete Guide/), [Momo, and SmartFlow](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/).  
+**Preparation - Moderate.** Users must read and be comfortable with the workings of the BigFour BigShort Indicators - [Dark Pools](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/), [NOF](/indicators-and-features/Net Option Flow A Complete Guide/), [Momo, and SmartFlow](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/).  
   
 
 

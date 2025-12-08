@@ -2,14 +2,13 @@
 title: "Getting Started with BigShort - New Users"
 layout: default
 parent: Getting Started
-grand_parent: Help Center
-nav_order: 4
+nav_order: 1
 ---
 
-First, before the trading day starts, or even on the previous day, we recommend taking a look at the [Seasonality Tab](/docs/getting-started/Understanding the Seasonality Tab/). This shows the historic performance of the last 30 years of SPY per calendar date. While Seasonality is a weaker force in the market, it’s good to give a general directional bias for the day.  
+First, before the trading day starts, or even on the previous day, we recommend taking a look at the [Seasonality Tab](/getting-started/Understanding the Seasonality Tab/). This shows the historic performance of the last 30 years of SPY per calendar date. While Seasonality is a weaker force in the market, it’s good to give a general directional bias for the day.  
 
 
-**If you’re just getting started, we recommend looking at the[SF Segregated chart.](/docs/getting-started/SF Segregated Tab/)**
+**If you’re just getting started, we recommend looking at the[SF Segregated chart.](/getting-started/SF Segregated Tab/)**
 
 ![](/assets/images/help/getting-started/Getting Started with_0-chart.png)
 
@@ -18,14 +17,14 @@ First, before the trading day starts, or even on the previous day, we recommend 
 In the upper left corner, you can search by ticker and date. We have performant 5 minute charts for all tickers for the S&P500 and Nasdaq going back **six years.**  
 
 
-In the upper right corner, you can see the current values for [SmartFlow and MomoFlow](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/). Under that, you can see all of our chart tools. Here, you can zoom in, draw lines, change your chart settings, use the tool tip to view all current values in a static, moveable and resizable pane, and see all option flow detail. You can see a description of all chart settings by hovering over the info icon. We offer these options because every trader has their own preference, for new users we recommend using the Recommended Settings.  
+In the upper right corner, you can see the current values for [SmartFlow and MomoFlow](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/). Under that, you can see all of our chart tools. Here, you can zoom in, draw lines, change your chart settings, use the tool tip to view all current values in a static, moveable and resizable pane, and see all option flow detail. You can see a description of all chart settings by hovering over the info icon. We offer these options because every trader has their own preference, for new users we recommend using the Recommended Settings.  
   
 In my examples I’ll be going over how to trade with SPY. For other tickers, look at the historical 5 minute chart to determine whether the stock is omo or smart controlled, and what the meaningful Momo/NOF levels are.  
 
 
 # Candles & Dark Pools
 
-The first pane is the Candlestick Pane. Here we display dark pool prints directly on the chart, so you can easily see support and resistance levels. Price action is the number one indicator, that’s why it’s the biggest pane. [Dark Pools](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/) are our number two indicator. When there are a lot of dark pools clustered around the same price range, or big dark pools, above the current price this level acts as resistance, and below the current price this level acts as support.
+The first pane is the Candlestick Pane. Here we display dark pool prints directly on the chart, so you can easily see support and resistance levels. Price action is the number one indicator, that’s why it’s the biggest pane. [Dark Pools](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/) are our number two indicator. When there are a lot of dark pools clustered around the same price range, or big dark pools, above the current price this level acts as resistance, and below the current price this level acts as support.
 
 ![](/assets/images/help/getting-started/Getting Started with_2-chart-1.png)
 
@@ -76,7 +75,7 @@ It’s also good to see multiple shadow bars pointing in the same direction in s
 
 # OptionFlow
 
-The fourth pane is OptionFlow. Be sure to have our beta feature, [Net Option Flow](/docs/indicators-and-features/Net Option Flow A Complete Guide/) (NOF), turned on in your chart settings. You should see purple and blue hills, pointing both up and down.
+The fourth pane is OptionFlow. Be sure to have our beta feature, [Net Option Flow](/indicators-and-features/Net Option Flow A Complete Guide/) (NOF), turned on in your chart settings. You should see purple and blue hills, pointing both up and down.
 
 ![](/assets/images/help/getting-started/Getting Started with_3-chart-3.png)
 
@@ -88,7 +87,7 @@ Traditional option volume registers 1 million contracts bought and 1 million con
 
 Traditional option volume also doesn’t account for the amount of money going into the trades that comprise it. With options volume, 1000 contracts bought for 1 cent registers the same as 1000 contracts bought for $10. With Net Option Flow, we weigh the latter 1000x more heavily. We also deduct the buys and sells from each other, whereas traditionally, they are just all added up to create option volume. This is a novel approach for displaying options flow that reveals the net dollar-weighted reality.  
   
-This green NOFA line shows the overall options sentiment for a given time period, and tracks whether there are more dollars flowing into bullish or bearish positions. If the green line is above zero on a 5min chart, this means that the net sum of past options trades throughout the day is positive. If the green line is below zero, this means that the net sum of past options trades throughout the day is negative. We can also observe the magnitude of movements in the green NOFA line to see how big the current flow is relative to what occurred prior. We can think of NOFA as an accumulation of inventory (positive or negative) throughout the day, which has longer term implications than the bar by bar NOF (net option flow for 1 candle). Read more about Net Option Flow [here](/docs/indicators-and-features/Net Option Flow A Complete Guide/).  
+This green NOFA line shows the overall options sentiment for a given time period, and tracks whether there are more dollars flowing into bullish or bearish positions. If the green line is above zero on a 5min chart, this means that the net sum of past options trades throughout the day is positive. If the green line is below zero, this means that the net sum of past options trades throughout the day is negative. We can also observe the magnitude of movements in the green NOFA line to see how big the current flow is relative to what occurred prior. We can think of NOFA as an accumulation of inventory (positive or negative) throughout the day, which has longer term implications than the bar by bar NOF (net option flow for 1 candle). Read more about Net Option Flow [here](/indicators-and-features/Net Option Flow A Complete Guide/).  
 
 
 📝 **Note:** Selling options is not as strong of an indicator as buying options, for example call buying is more bullish than the same amount of put selling.
@@ -108,7 +107,7 @@ Imagine there are two opponents pushing against a ball. One opponent is exerting
 #   
 SimSearch
 
-UltraFlow SimSearch shows the 5 trading days with the most similar price action to today’s, and shows how those days played out. It activates after the first 30 minutes of the day and then updates every 2 seconds. It’s good to keep the SimSearch chart open in another window to see the potential patterns of the day. Read more about SimSearch [here.](/docs/indicators-and-features/Similarity Search (SimSearch)/)
+UltraFlow SimSearch shows the 5 trading days with the most similar price action to today’s, and shows how those days played out. It activates after the first 30 minutes of the day and then updates every 2 seconds. It’s good to keep the SimSearch chart open in another window to see the potential patterns of the day. Read more about SimSearch [here.](/indicators-and-features/Similarity Search (SimSearch)/)
 
 ![](/assets/images/help/getting-started/Getting Started with_8-simsearch.png)
 

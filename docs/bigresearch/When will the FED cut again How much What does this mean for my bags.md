@@ -2,8 +2,7 @@
 title: "When will the FED cut again? How much? What does this mean for my bags?"
 layout: default
 parent: BigResearch
-grand_parent: Help Center
-nav_order: 11
+nav_order: 3
 ---
 
 In BIG RESEARCH We use ChatGPT o1-Pro Deep Research to dive into the world of trading data—so you don't have to.  

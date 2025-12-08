@@ -2,11 +2,10 @@
 title: "Net Option Flow: A Complete Guide"
 layout: default
 parent: Indicators & Features
-grand_parent: Help Center
-nav_order: 2
+nav_order: 3
 ---
 
-Net Option Flow (NOF) is a key feature in BigShort, providing traders with insights into market sentiment by analyzing real-time options activity. Whether you’re looking at [SmartFlow](https://intercom.help/bigshort/en/articles/10445405-smartflow-tab), [SF Segregated](/docs/getting-started/SF Segregated Tab/), or [Ultraflow](https://intercom.help/bigshort/en/articles/10442189-understanding-the-ultraflow-tab) in BigShort the Net Option Flow chart equips you with powerful tools to uncover trading opportunities.
+Net Option Flow (NOF) is a key feature in BigShort, providing traders with insights into market sentiment by analyzing real-time options activity. Whether you’re looking at [SmartFlow](/getting-started/SmartFlow Tab/), [SF Segregated](/getting-started/SF Segregated Tab/), or [Ultraflow](/getting-started/Understanding the UltraFlow Tab/) in BigShort the Net Option Flow chart equips you with powerful tools to uncover trading opportunities.
 
 This guide explains what Net Option Flow is, where to find it, and how to interpret the chart to integrate it into your trading strategy.
 
@@ -54,11 +53,11 @@ While traditional volume simply adds up all activity (buys and sells combined), 
 
 The Net Option Flow chart is visible in these sections of BigShort:
 
-  * **[SmartFlow](https://intercom.help/bigshort/en/articles/10445405-smartflow-tab)**
+  * **[SmartFlow](/getting-started/SmartFlow Tab/)**
 
-  * **[SF Segregated](/docs/getting-started/SF Segregated Tab/)**
+  * **[SF Segregated](/getting-started/SF Segregated Tab/)**
 
-  * **[Ultraflow](https://intercom.help/bigshort/en/articles/10442189-understanding-the-ultraflow-tab)**
+  * **[Ultraflow](/getting-started/Understanding the UltraFlow Tab/)**
 
 
 In each section, you’ll find the Net Option Flow chart, which visualizes the three key metrics.
@@ -162,7 +161,7 @@ From time to time you might also see colored vertical lines on the NOF chart. Th
 
 ## **4\. Power Hour Caution**
 
-  * Be cautious when interpreting Net Option Flow during the last hour of trading ("[Power Hour](https://intercom.help/bigshort/en/articles/10416277-why-we-don-t-trade-power-hour)"). Large institutional trades can distort typical sentiment patterns.
+  * Be cautious when interpreting Net Option Flow during the last hour of trading ("[Power Hour](/getting-started/Why We Don’t Trade Power Hour/)"). Large institutional trades can distort typical sentiment patterns.
 
 
 ## **5\. Combine with Other Indicators**
@@ -200,7 +199,7 @@ Picture two opponents both pulling a rope in tug of war. Person 1 is exerting 10
 
 # Martian Net Option Flow
 
-As of April 2025, "Martian Net Option Flow" and "Martian NOFA" were added as th default to three charts - [SF Segregated](/docs/getting-started/SF Segregated Tab/), [SmartFlow](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/), [UltraFlow](https://help.bigshort.com/en/articles/10442189-understanding-the-ultraflow-tab). "Martian Net Option Flow" and "Martian NOFA" was discovered by one of our own users (@Martian) and displays Net Option Flow slightly differently by subtracting the Net Unusual Option Premium from the Net Option Flow.   
+As of April 2025, "Martian Net Option Flow" and "Martian NOFA" were added as th default to three charts - [SF Segregated](/getting-started/SF Segregated Tab/), [SmartFlow](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/), [UltraFlow](https://help.bigshort.com/en/articles/10442189-understanding-the-ultraflow-tab). "Martian Net Option Flow" and "Martian NOFA" was discovered by one of our own users (@Martian) and displays Net Option Flow slightly differently by subtracting the Net Unusual Option Premium from the Net Option Flow.   
   
 NOF is made of 2 components: Regular Options Flows and Unusual Options Flows.
 
@@ -220,4 +219,4 @@ To activate the original NOF with slightly different math, simply go to Chart Se
 
 BigShort's novel Net Option Flow is a versatile and powerful tool for understanding market sentiment and identifying trading opportunities. By tracking net flow, unusual activity, and cumulative trends, you can uncover insights that set your trading apart.
 
-If you haven't already, check out our [Guide for New Users](/docs/getting-started/Getting Started with BigShort - New Users/) to see who NOF can be folded into an overall strategy.
+If you haven't already, check out our [Guide for New Users](/getting-started/Getting Started with BigShort - New Users/) to see who NOF can be folded into an overall strategy.

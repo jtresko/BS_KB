@@ -2,8 +2,7 @@
 title: "What is a Honey Badger Day and How To Trade It"
 layout: default
 parent: Strategy
-grand_parent: Help Center
-nav_order: 21
+nav_order: 1
 ---
 
 📈 **Analysis:** BigShort user and all-around great dude, The Hunter, has compiled and amazing analysis of Honey Badger Days to help the entire community. This analysis is available only to our users and **can be found in the Guides channel on our Discord.**
@@ -50,11 +49,11 @@ In order to start familiarizing yourself with the thinking on HBDs, let’s take
 
 [![](/assets/images/help/strategy/What is a Honey Badg_hbd-weakness-rally+(1).png)](/assets/images/help/strategy/What is a Honey Badg_hbd-weakness-rally+(1).png)
 
-We see the typical U-shape here. My usual hold time when trading is anywhere between 5-15 minutes, but on honey badger days, I buy the dips and hold until the late day rally, knowing that there’s bullish pressure coming. I time my entries and exits based on the [BigShort indicators](/docs/getting-started/Getting Started with BigShort - New Users/). I’ll break down how I traded this one!
+We see the typical U-shape here. My usual hold time when trading is anywhere between 5-15 minutes, but on honey badger days, I buy the dips and hold until the late day rally, knowing that there’s bullish pressure coming. I time my entries and exits based on the [BigShort indicators](/getting-started/Getting Started with BigShort - New Users/). I’ll break down how I traded this one!
 
 [![](/assets/images/help/strategy/What is a Honey Badg_hbd-markup+(1).png)](/assets/images/help/strategy/What is a Honey Badg_hbd-markup+(1).png)
 
-  1. I saw that [Net Option Flow](/docs/indicators-and-features/Net Option Flow A Complete Guide/) was bearish, we had small bearish Manipulation, and we also gapped up above the previous day’s close price, so I waited to add.
+  1. I saw that [Net Option Flow](/indicators-and-features/Net Option Flow A Complete Guide/) was bearish, we had small bearish Manipulation, and we also gapped up above the previous day’s close price, so I waited to add.
 
   2. Net Option Flow switched from bearish to bullish, so I scaled into my calls. 
 
@@ -84,7 +83,7 @@ There are days that are ALMOST official Honey Badger Days that we call "Badgeris
 
   * Late-day rallies often occur due to short covering and provide great exit liquidity.
 
-  * Use [Net Option Flow](https://Net), [Dark Pools](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/), [Momo and SmartFlow](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/) indicators to guide exact entries and exits.
+  * Use [Net Option Flow](https://Net), [Dark Pools](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/), [Momo and SmartFlow](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/) indicators to guide exact entries and exits.
 
   * Avoid shorting on HBD - very dangerous.  
 

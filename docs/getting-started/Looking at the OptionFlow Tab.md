@@ -2,8 +2,7 @@
 title: "Looking at the OptionFlow Tab"
 layout: default
 parent: Getting Started
-grand_parent: Help Center
-nav_order: 6
+nav_order: 14
 ---
 
 # Introduction

@@ -1,14 +1,13 @@
 ---
-title: "Getting the Most from BigShort"
+title: "Getting the Most from BigShort's Discord Community"
 layout: default
 parent: Discord Community
-grand_parent: Help Center
-nav_order: 1
+nav_order: 3
 ---
 
 # Introduction
 
-If you are already a BigShort customer and you have not yet joined our members-only discord community, stop what you are doing and [follow these steps](https://intercom.help/bigshort/en/articles/10372185-how-to-join-our-members-only-discord-channels) immediately.
+If you are already a BigShort customer and you have not yet joined our members-only discord community, stop what you are doing and [follow these steps](/discord-community/How to Join our Members-Only Discord Channels/) immediately.
 
 In our private Discord channels, you’ll connect with hundreds of traders—ranging from beginners to seasoned pros—sharing insights, strategies, and even the occasional humble brag. It’s a vibrant space to learn, trade, and grow together.
 

@@ -2,8 +2,7 @@
 title: "Trading Dual Honey Badger Days - 3.21.25 and 3.24.25"
 layout: default
 parent: Strategy
-grand_parent: Help Center
-nav_order: 18
+nav_order: 17
 ---
 
 BigShort warned its users of a [Honey BadgerISH Day](https://help.bigshort.com/en/articles/10279943-what-is-a-honey-badger-day-and-how-to-trade-it) leading up to March 20th 2025 and then a full [Honey Badger Day](https://help.bigshort.com/en/articles/10279943-what-is-a-honey-badger-day-and-how-to-trade-it) on March 24th 2025. Per usual, it turned out to be very lucrative.   

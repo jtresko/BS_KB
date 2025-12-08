@@ -2,8 +2,7 @@
 title: "Understanding Dark Pools and DarkFlow in BigShort"
 layout: default
 parent: Indicators & Features
-grand_parent: Help Center
-nav_order: 4
+nav_order: 2
 ---
 
 Dark Pools and DarkFlow are two related yet distinct features within BigShort that provide traders with valuable insights into off-exchange institutional activity. This article will explain what they are, where to find them in the software, and how to interpret them effectively in your trading strategy.
@@ -25,11 +24,11 @@ In summary:
 
 BigShort is the only platform that displays dark pools directly on our charts so you can easily spot support and resistance levels. You can analyze dark pool activity in the following sections of the software:
 
-  * **[SmartFlow](https://intercom.help/bigshort/en/articles/10445405-smartflow-tab)**[:](https://intercom.help/bigshort/en/articles/10445405-smartflow-tab) Dark pools shown for any ticker in real time 
+  * **[SmartFlow](/getting-started/SmartFlow Tab/)**[:](/getting-started/SmartFlow Tab/) Dark pools shown for any ticker in real time 
 
-  * **[SF Segregated](/docs/getting-started/SF Segregated Tab/)**[:](/docs/getting-started/SF Segregated Tab/) Dark pools shown for any ticker in real time
+  * **[SF Segregated](/getting-started/SF Segregated Tab/)**[:](/getting-started/SF Segregated Tab/) Dark pools shown for any ticker in real time
 
-  * **[UltraFlow](https://intercom.help/bigshort/en/articles/10442189-understanding-the-ultraflow-tab)**[:](https://intercom.help/bigshort/en/articles/10442189-understanding-the-ultraflow-tab) Dark pools shown for selected indexes in real time
+  * **[UltraFlow](/getting-started/Understanding the UltraFlow Tab/)**[:](/getting-started/Understanding the UltraFlow Tab/) Dark pools shown for selected indexes in real time
 
   * **DarkFlow:** filtered dark pool activity shown for Top 100 tickers by dark pool volume  
 

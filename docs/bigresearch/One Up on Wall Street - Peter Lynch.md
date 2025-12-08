@@ -2,8 +2,7 @@
 title: "One Up on Wall Street - Peter Lynch"
 layout: default
 parent: BigResearch
-grand_parent: Help Center
-nav_order: 5
+nav_order: 8
 ---
 
 User @MacZaddy requested a BigShort user-generated library. Everyone sharing their favorite trading books for others to learn from.  

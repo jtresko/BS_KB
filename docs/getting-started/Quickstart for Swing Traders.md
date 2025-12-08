@@ -2,7 +2,6 @@
 title: "Quickstart for Swing Traders"
 layout: default
 parent: Getting Started
-grand_parent: Help Center
 nav_order: 8
 ---
 
@@ -33,7 +32,7 @@ We even have a Discord Bot (hoBOTae) that you can DM '!notify' to for automated 
 ## Check Top 10 Short Exempt (SE) Trailing 10 Days 
 
   
-Checking the [Top 10 SE Trailing 10 Days list](https://help.bigshort.com/en/articles/10362240-dashboard-top-10s) on the Dashboard for significant, days-long spikes in SE in stocks you like in industries you like. Click into those stocks and look at them in [SF Segregated](/docs/getting-started/SF Segregated Tab/) on the daily timeframe. Buy if the price and [BigFour BigShort indicators](https://intercom.help/bigshort/en/articles/11002762-the-bigfour-bigshort-indicators) align and the market dynamics are bullish.  
+Checking the [Top 10 SE Trailing 10 Days list](https://help.bigshort.com/en/articles/10362240-dashboard-top-10s) on the Dashboard for significant, days-long spikes in SE in stocks you like in industries you like. Click into those stocks and look at them in [SF Segregated](/getting-started/SF Segregated Tab/) on the daily timeframe. Buy if the price and [BigFour BigShort indicators](https://intercom.help/bigshort/en/articles/11002762-the-bigfour-bigshort-indicators) align and the market dynamics are bullish.  
   
 **Difficulty - Advanced.** You need knowledge of the market dynamics, Price Trend, and BigShort Indicators
 
@@ -45,7 +44,7 @@ Checking the [Top 10 SE Trailing 10 Days list](https://help.bigshort.com/en/arti
 
 ## Combine high short exempt (SE) with NOF Signals and the Flows 
 
-One of BigShort's best swing traders shared this setup that he uses. Using [SE](https://help.bigshort.com/en/articles/10629795-what-is-short-exempt-se) to identify the ticker and [NOF](/docs/indicators-and-features/Net Option Flow A Complete Guide/) and [Flows](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/) to Identify the entry.   
+One of BigShort's best swing traders shared this setup that he uses. Using [SE](https://help.bigshort.com/en/articles/10629795-what-is-short-exempt-se) to identify the ticker and [NOF](/indicators-and-features/Net Option Flow A Complete Guide/) and [Flows](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/) to Identify the entry.   
   
 **Difficulty - Moderate.** You need to understand a couple basic BigShort Indicators and have patience  
   
@@ -108,7 +107,7 @@ The Swing-trade channel is very active with discussions of various tickers and r
   
 **Difficulty - Easy.** You simply need access to the [Subscribers-only Discord](https://help.bigshort.com/en/articles/10372185-how-to-join-our-members-only-discord-channels) and engage with the ideas and people there.  
   
-**Preparation - Simple.** You only need to be able to vet ideas you come across. With BigShort, that's very easy and fast. Simply check out the ideas on the [SF Segregated Tab](/docs/getting-started/SF Segregated Tab/), perhaps on the daily timeframe.   
+**Preparation - Simple.** You only need to be able to vet ideas you come across. With BigShort, that's very easy and fast. Simply check out the ideas on the [SF Segregated Tab](/getting-started/SF Segregated Tab/), perhaps on the daily timeframe.   
   
   
 

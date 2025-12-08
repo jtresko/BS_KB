@@ -2,15 +2,14 @@
 title: "Manipulation and Market Maker Price Discovery"
 layout: default
 parent: Indicators & Features
-grand_parent: Help Center
-nav_order: 1
+nav_order: 6
 ---
 
 # Introduction
 
-Manipulation and Market Maker Price Discovery (MMPD) are two of our most exciting proprietary indicators, but they’re still in the early stages of development. While we can’t disclose their exact workings, this article will help you understand a bit more about them. For more information on these indicators, our [Discord community](https://intercom.help/bigshort/en/articles/10372185-how-to-join-our-members-only-discord-channels) is the best place to learn more. 
+Manipulation and Market Maker Price Discovery (MMPD) are two of our most exciting proprietary indicators, but they’re still in the early stages of development. While we can’t disclose their exact workings, this article will help you understand a bit more about them. For more information on these indicators, our [Discord community](/discord-community/How to Join our Members-Only Discord Channels/) is the best place to learn more. 
 
-Both of these indicators are found together on the same chart and can be viewed on the [SmartFlow](https://intercom.help/bigshort/en/articles/10445405-smartflow-tab) and [UltraFlow](https://intercom.help/bigshort/en/articles/10442189-understanding-the-ultraflow-tab) tabs.
+Both of these indicators are found together on the same chart and can be viewed on the [SmartFlow](/getting-started/SmartFlow Tab/) and [UltraFlow](/getting-started/Understanding the UltraFlow Tab/) tabs.
 
 ![](/assets/images/help/indicators-and-features/Manipulation and Mar_Screenshot+2025-01-22+at+12_48_03+PM.png)
 

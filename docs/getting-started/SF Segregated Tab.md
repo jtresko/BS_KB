@@ -2,13 +2,12 @@
 title: "SF Segregated Tab"
 layout: default
 parent: Getting Started
-grand_parent: Help Center
-nav_order: 9
+nav_order: 11
 ---
 
 # Introduction
 
-As stated in our [New User Guide](/docs/getting-started/Getting Started with BigShort - New Users/), we recommend that new users start in this section for ease.
+As stated in our [New User Guide](/getting-started/Getting Started with BigShort - New Users/), we recommend that new users start in this section for ease.
 
 ![](/assets/images/help/getting-started/SF Segregated Tab_SF+Segregated+Overview.png)
 
@@ -43,21 +42,21 @@ These buttons provide various additional info and chart tools.
 
 # 5\. Candlestick Chart
 
-The largest and most important pane in the chart area. Here you can see the price candlesticks and [dark pools](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/), alone with other indicators like SMA and Bollinger Bands if you have enabled them in your chart settings.
+The largest and most important pane in the chart area. Here you can see the price candlesticks and [dark pools](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/), alone with other indicators like SMA and Bollinger Bands if you have enabled them in your chart settings.
 
-💡 **Tip:** As stated in our [New User Guide](/docs/getting-started/Getting Started with BigShort - New Users/), price is the most important indicator in trading, yet it is often overlooked by newer traders. There's a reason this chart **takes up the most space on the screen!**
+💡 **Tip:** As stated in our [New User Guide](/getting-started/Getting Started with BigShort - New Users/), price is the most important indicator in trading, yet it is often overlooked by newer traders. There's a reason this chart **takes up the most space on the screen!**
 
 # 6\. SmartFlow (SF)
 
-The SmartFlow chart in SF Segregated displays algorithmic trading data separately, isolating it from more discretionary flows like MomoFlow. This split allows for clearer analysis of high-frequency and automated trading activity without the influence of human-driven market sentiment. For more information on this chart, [click here](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/).
+The SmartFlow chart in SF Segregated displays algorithmic trading data separately, isolating it from more discretionary flows like MomoFlow. This split allows for clearer analysis of high-frequency and automated trading activity without the influence of human-driven market sentiment. For more information on this chart, [click here](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/).
 
 # 7\. MomoFlow (MF, Momo, Shadow Bars)
 
-The MomoFlow chart in SF Segregated highlights discretionary, human-driven trading activity, isolating it from more algorithmic flows like SmartFlow. This focused view helps traders analyze market sentiment and identify speculative patterns without interference from automated trading data. For more information on this chart, [click here](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/).
+The MomoFlow chart in SF Segregated highlights discretionary, human-driven trading activity, isolating it from more algorithmic flows like SmartFlow. This focused view helps traders analyze market sentiment and identify speculative patterns without interference from automated trading data. For more information on this chart, [click here](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/).
 
 # 8\. Net Options Flow
 
-The Net Options Flow (NOF) chart visualizes real-time sentiment in the options market by tracking net call and put premiums, unusual activity, and daily cumulative flow. By differentiating between buying (upward) and selling (downward) activity, the chart provides actionable insights into market trends and potential reversals. For more information on this indicator, [click here](/docs/indicators-and-features/Net Option Flow A Complete Guide/).
+The Net Options Flow (NOF) chart visualizes real-time sentiment in the options market by tracking net call and put premiums, unusual activity, and daily cumulative flow. By differentiating between buying (upward) and selling (downward) activity, the chart provides actionable insights into market trends and potential reversals. For more information on this indicator, [click here](/indicators-and-features/Net Option Flow A Complete Guide/).
 
 # 9\. Time Scaling
 

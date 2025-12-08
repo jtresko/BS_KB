@@ -2,8 +2,7 @@
 title: "How to Join our Members-Only Discord Channels"
 layout: default
 parent: Discord Community
-grand_parent: Help Center
-nav_order: 3
+nav_order: 2
 ---
 
 # Step 1

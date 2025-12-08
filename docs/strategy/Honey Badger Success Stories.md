@@ -2,8 +2,7 @@
 title: "Honey Badger Success Stories"
 layout: default
 parent: Strategy
-grand_parent: Help Center
-nav_order: 4
+nav_order: 10
 ---
 
 Below are screenshots of a tiny sample of BigShort traders celebrating wins on [Honey Badger and Badgerish days](https://help.bigshort.com/en/articles/10279943-honey-badger-day-and-how-to-trade-it) in case you need motivation to try trading with BigShort for one.   

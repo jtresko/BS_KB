@@ -1,24 +1,23 @@
 ---
-title: "Tae"
+title: "Tae's Corner: SPY - Jan 15, 2025"
 layout: default
 parent: Strategy
-grand_parent: Help Center
-nav_order: 10
+nav_order: 18
 ---
 
-In Tae's corner, we share small snap shots of advice and wisdom from BigShort's founder, Tae, that he often shares in the Tutoring channel of our [Discord community.](https://intercom.help/bigshort/en/articles/10372185-how-to-join-our-members-only-discord-channels)
+In Tae's corner, we share small snap shots of advice and wisdom from BigShort's founder, Tae, that he often shares in the Tutoring channel of our [Discord community.](/discord-community/How to Join our Members-Only Discord Channels/)
 
 ![](/assets/images/help/strategy/Tae's Corner SPY - J_image.png)
 
 _click the image for a bigger view_
 
-**Morning Market Activity** : A significant amount of momentum buying ([Momo](/docs/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/)) occurred in the morning but was faded by market makers. This led to a dip, during which Momo oversold, triggering a rally.
+**Morning Market Activity** : A significant amount of momentum buying ([Momo](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/)) occurred in the morning but was faded by market makers. This led to a dip, during which Momo oversold, triggering a rally.
 
 **Market Sentiment** : Despite the rally, Momo did not regain confidence and continued selling throughout the day, causing prices to rise further.
 
-**User Insights** : BigShort users avoided shorting at the top of the range due to bullish signals, supported by [Dark Pools](/docs/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/) (DPs) during the rally and breakout.
+**User Insights** : BigShort users avoided shorting at the top of the range due to bullish signals, supported by [Dark Pools](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/) (DPs) during the rally and breakout.
 
-**Market Flow Observations** : Momoflow was significantly larger than [Net Option Flow](/docs/indicators-and-features/Net Option Flow A Complete Guide/) (NOF), which remained relatively flat and had minimal impact.
+**Market Flow Observations** : Momoflow was significantly larger than [Net Option Flow](/indicators-and-features/Net Option Flow A Complete Guide/) (NOF), which remained relatively flat and had minimal impact.
 
 * * *
 

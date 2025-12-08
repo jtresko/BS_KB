@@ -2,8 +2,7 @@
 title: "How to Change your Subscription"
 layout: default
 parent: General
-grand_parent: Help Center
-nav_order: 4
+nav_order: 1
 ---
 
 To change your subscription, sign into app.bigshort.com, then click on the down caret in the upper right-hand corner, and select "Customer Portal."

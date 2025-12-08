@@ -2,8 +2,7 @@
 title: "Similarity Search (SimSearch)"
 layout: default
 parent: Indicators & Features
-grand_parent: Help Center
-nav_order: 3
+nav_order: 1
 ---
 
 # The Science Behind Similarity Search
@@ -21,7 +20,7 @@ To go deeper into the science behind SimSearch and improve your trading,[ read m
 
 ![](/assets/images/help/indicators-and-features/Similarity Search (S_UltraFlow-SS.png)
 
-In the BigShort app, click on [UltraFlow](https://intercom.help/bigshort/en/articles/10442189-understanding-the-ultraflow-tab) in the side menu. From there, choose which UltraFlow you’d like to view at the top left of the screen under the date search. From there, click the Similarity Search (beta) button next to the historical button. At the bottom of the BigShort chart, you’ll now see the 5 dates with the most similar price patterns to today’s, as well as the SS median line, which is the median of all 5 days. Click on the dates to toggle them on and off.  
+In the BigShort app, click on [UltraFlow](/getting-started/Understanding the UltraFlow Tab/) in the side menu. From there, choose which UltraFlow you’d like to view at the top left of the screen under the date search. From there, click the Similarity Search (beta) button next to the historical button. At the bottom of the BigShort chart, you’ll now see the 5 dates with the most similar price patterns to today’s, as well as the SS median line, which is the median of all 5 days. Click on the dates to toggle them on and off.  
 
 
 # How Similarity Search Works
@@ -51,12 +50,12 @@ In the BigShort app, click on [UltraFlow](https://intercom.help/bigshort/en/arti
 
 # UltraFlow Explained
 
-[UltraFlow](https://intercom.help/bigshort/en/articles/10442189-understanding-the-ultraflow-tab) aggregates indicator data from all the individual constituents of an ETF. For example, SPY UltraFlow combines SmartFlow, Manipulation, and Net Option Flow data for every ticker in the S&P 500 into a single chart.  
+[UltraFlow](/getting-started/Understanding the UltraFlow Tab/) aggregates indicator data from all the individual constituents of an ETF. For example, SPY UltraFlow combines SmartFlow, Manipulation, and Net Option Flow data for every ticker in the S&P 500 into a single chart.  
 
 
 # Best Practices
 
-We recommend using Similarity Search in conjunction with our [Net Option Flow](/docs/indicators-and-features/Net Option Flow A Complete Guide/) indicator to fine-tune your entry and exit points.  
+We recommend using Similarity Search in conjunction with our [Net Option Flow](/indicators-and-features/Net Option Flow A Complete Guide/) indicator to fine-tune your entry and exit points.  
 
 
 # Final Thoughts

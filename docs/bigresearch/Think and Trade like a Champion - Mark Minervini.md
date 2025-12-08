@@ -2,8 +2,7 @@
 title: "Think and Trade like a Champion - Mark Minervini"
 layout: default
 parent: BigResearch
-grand_parent: Help Center
-nav_order: 9
+nav_order: 7
 ---
 
 User @MacZaddy requested a BigShort user-generated library. Everyone sharing their favorite trading books for others to learn from.  

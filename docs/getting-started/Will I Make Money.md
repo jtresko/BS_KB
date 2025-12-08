@@ -2,8 +2,7 @@
 title: "Will I Make Money?"
 layout: default
 parent: Getting Started
-grand_parent: Help Center
-nav_order: 16
+nav_order: 2
 ---
 
 Many of our users consistently make thousands of dollars per day using BigShort. Some make even more. This includes a few traders who started with little to no trading experience before using our product. That said, if you’re completely new to trading, BigShort may not be the right fit for you just yet.

@@ -2,8 +2,7 @@
 title: "How RIGGED Is It?!?!?: Hidden Trading Hits Record Highs"
 layout: default
 parent: BigResearch
-grand_parent: Help Center
-nav_order: 4
+nav_order: 5
 ---
 
 Numbers at the end of sentences are used as footnotes in this article. To run down stats and quotes yourself, check the relevant sources at the bottom.

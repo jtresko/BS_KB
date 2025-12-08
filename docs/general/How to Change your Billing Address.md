@@ -2,8 +2,7 @@
 title: "How to Change your Billing Address"
 layout: default
 parent: General
-grand_parent: Help Center
-nav_order: 2
+nav_order: 3
 ---
 
 To change your billing address, sign into app.bigshort.com, then click on the down caret in the upper right-hand corner, and select "Customer Portal."
