@@ -48,7 +48,7 @@ Many of these recs take weeks or months to play out and are squarely Swing Trade
 
 A [high Short Exempt (SE) indicator over 1 ](/indicators-and-features/What is Short Exempt (SE)/)on[ the Dashboard](/getting-started/platform-tabs/Dashboard & Top 10s/) implies high volatility in the coming day(s) for that ticker. Use the BigFour BigShort indicators to trade that stock.
 
-**Difficulty - Moderate.** Users must know how all [BigFour BigShort indicators](https://help.bigshort.com/en/articles/11002762-the-bigfour-bigshort-indicators) work and be patient enough to wait for agreement. Users must use their own discretion as to how much signal is enough for them to enter
+**Difficulty - Moderate.** Users must know how all [BigFour BigShort indicators](/indicators-and-features/The BigFour BigShort Indicators/) work and be patient enough to wait for agreement. Users must use their own discretion as to how much signal is enough for them to enter
 
 **Preparation - Moderate.** Users must read and be comfortable with the workings of the BigFour BigShort Indicators - [Dark Pools](/indicators-and-features/Understanding Dark Pools and DarkFlow in BigShort/), [NOF](/indicators-and-features/Net Option Flow A Complete Guide/), [Momo, and SmartFlow](/indicators-and-features/Understanding SmartFlow and MomoFlow Indicators/).
 
@@ -76,7 +76,7 @@ For more advanced uses of BigShort for Day Traders, we recommend these articles:
 
   * [Joe's Premarket Strateg](/strategy/user-strategies/Joe from Cup of Joe Trading Explains his Premarket Strategy (video)/)y
 
-  * [Three Flow Alignment](https://help.bigshort.com/en/articles/10697642-perfectly-reading-spy-with-three-flow-alignment)
+  * Three Flow Alignment
 
   * [Trading SPY on September 25th, 2024](/strategy/taes-corner/Tae's Corner SPY - Jan 14, 2025/)
 

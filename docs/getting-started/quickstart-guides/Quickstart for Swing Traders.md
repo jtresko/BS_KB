@@ -33,7 +33,7 @@ We even have a Discord Bot (hoBOTae) that you can DM '!notify' to for automated 
 ## Check Top 10 Short Exempt (SE) Trailing 10 Days 
 
   
-Checking the [Top 10 SE Trailing 10 Days list](/getting-started/platform-tabs/Dashboard & Top 10s/) on the Dashboard for significant, days-long spikes in SE in stocks you like in industries you like. Click into those stocks and look at them in [SF Segregated](/getting-started/platform-tabs/SF Segregated Tab/) on the daily timeframe. Buy if the price and [BigFour BigShort indicators](https://intercom.help/bigshort/en/articles/11002762-the-bigfour-bigshort-indicators) align and the market dynamics are bullish.  
+Checking the [Top 10 SE Trailing 10 Days list](/getting-started/platform-tabs/Dashboard & Top 10s/) on the Dashboard for significant, days-long spikes in SE in stocks you like in industries you like. Click into those stocks and look at them in [SF Segregated](/getting-started/platform-tabs/SF Segregated Tab/) on the daily timeframe. Buy if the price and [BigFour BigShort indicators](/indicators-and-features/The BigFour BigShort Indicators/) align and the market dynamics are bullish.  
   
 **Difficulty - Advanced.** You need knowledge of the market dynamics, Price Trend, and BigShort Indicators
 
@@ -82,7 +82,7 @@ Step by Step:
 ![](/assets/images/help/getting-started/Quickstart for Swing_SOUN+Flow+Flips.png)
 
 
-  * Using SE to identify the ticker and the [BigFour BigShort Indicators](https://intercom.help/bigshort/en/articles/11002762-the-bigfour-bigshort-indicators) like Momo and NOF to time the entries leads to big wins. In the above case, it led a very tradable 57% price increase over nine days.  
+  * Using SE to identify the ticker and the [BigFour BigShort Indicators](/indicators-and-features/The BigFour BigShort Indicators/) like Momo and NOF to time the entries leads to big wins. In the above case, it led a very tradable 57% price increase over nine days.  
 
 
 ![](/assets/images/help/getting-started/Quickstart for Swing_Screenshot+2025-04-02+at+10_15_56 AM.png)
@@ -93,7 +93,7 @@ Step by Step:
 
 ## Look for agreement on all three various timeframes 
 
-BigShort provides 5min, 1hour, and 1day timeframes. In each, you can see the [BigFour BigShort indicators](https://intercom.help/bigshort/en/articles/11002762-the-bigfour-bigshort-indicators). Waiting until the signs are bullish (or bearish) on all three timeframes provides excellent setups for Swing Traders, and it's extremely easy to execute.  
+BigShort provides 5min, 1hour, and 1day timeframes. In each, you can see the [BigFour BigShort indicators](/indicators-and-features/The BigFour BigShort Indicators/). Waiting until the signs are bullish (or bearish) on all three timeframes provides excellent setups for Swing Traders, and it's extremely easy to execute.  
   
 Difficulty - Easy - You simply need look for bullish or bearish agreement across the timeframes.   
   
