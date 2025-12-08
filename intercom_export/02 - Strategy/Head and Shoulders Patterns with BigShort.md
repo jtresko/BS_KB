@@ -1,0 +1,71 @@
+---
+title: "Head and Shoulders Patterns with BigShort"
+source: "https://help.bigshort.com/en/articles/10533810-head-and-shoulders-patterns-with-bigshort"
+collection: "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles"
+---
+
+BigShort turns trading the classic Head and Shoulders pattern on its head, giving traders the confidence to pinpoint entries and exits like pros. With advanced indicators and intuitive tools, BigShort makes identifying and trading this popular reversal pattern easier and more consistent.
+
+Below, you’ll learn how to spot a Head and Shoulders pattern and how to trade it more profitably with [Net Options Flow](https://intercom.help/bigshort/en/articles/10354751-net-option-flow-a-complete-guide) (NOF), [DarkPools](https://intercom.help/bigshort/en/articles/10280483-understanding-dark-pools-and-darkflow-in-bigshort), and other exclusive, institution-following signals.
+
+# **What Is a Head and Shoulders Pattern?**
+
+The Head and Shoulders pattern is a powerful chart formation signaling a potential reversal of an uptrend into a downtrend. It consists of three peaks: the first and third (the “shoulders”) are lower than the central peak (the “head”), and they are connected by a “neckline” that acts as support. When the price breaks below the neckline, it often indicates the start of a downtrend.
+
+You can also encounter an Inverse Head and Shoulders pattern, which signals a reversal of a downtrend into an uptrend. The same principles apply, but the peaks and directions of trade are inverted.
+
+[![](https://downloads.intercomcdn.com/i/o/u9e1zc58/1373768063/70206371e018d6518d5f9f9a59b9/AD_4nXfTNUH10fpcXhGQk8iZD0JOcqD6sRkX4PY1zFtOfDfe5br7cKLMHfedzYUqqm7sDfxTh_XasiVouvFst6eH152cXV3rG-oaqQiy0KlAWptFXU5k10aZOVJ5cpwEy4WSpABp5GD_kQ?expires=1765215000&signature=775067b95c50d273b576c9c6c86ff3f02b974b4be2b0962c0cdc21e4617214ad&req=dSMgFc54lYFZWvMW1HO4zUPvIdosE%2BOI4RxFkpUjmv4syQVhYuMtvLFzX1G1%0Axgh0frs4BTfScxBDcgE%3D%0A)](https://downloads.intercomcdn.com/i/o/u9e1zc58/1373768063/70206371e018d6518d5f9f9a59b9/AD_4nXfTNUH10fpcXhGQk8iZD0JOcqD6sRkX4PY1zFtOfDfe5br7cKLMHfedzYUqqm7sDfxTh_XasiVouvFst6eH152cXV3rG-oaqQiy0KlAWptFXU5k10aZOVJ5cpwEy4WSpABp5GD_kQ?expires=1765215000&signature=775067b95c50d273b576c9c6c86ff3f02b974b4be2b0962c0cdc21e4617214ad&req=dSMgFc54lYFZWvMW1HO4zUPvIdosE%2BOI4RxFkpUjmv4syQVhYuMtvLFzX1G1%0Axgh0frs4BTfScxBDcgE%3D%0A)
+
+# **How to Identify the Pattern**
+
+To spot a Head and Shoulders pattern:
+
+  1. Look for a clear uptrend leading into the formation.
+
+  2. Identify the three peaks: the left shoulder, the head (highest point), and the right shoulder.
+
+  3. Confirm the neckline, which connects the low points between the shoulders and the head.
+
+  4. Use BigShort’s institutional-tracking signals, such as **[Net Options Flow](https://intercom.help/bigshort/en/articles/10354751-net-option-flow-a-complete-guide)** or **[Dark Pools](https://intercom.help/bigshort/en/articles/10280483-understanding-dark-pools-and-darkflow-in-bigshort)** , to confirm whether institutional and/or algorithmic players are aligning for a reversal
+
+
+
+
+BigShort’s automated tools help remove the guesswork, alerting you when a potential Head and Shoulders pattern is likely to play out (become bearish) or become invalidated enabling you to avoid losses and maximize gains.  
+​
+
+# **How to Trade the Pattern with BigShort**
+
+  1. **Entry Point** : Wait for the price to break below the neckline (in the case of a regular pattern) or above it (for an inverse pattern). This breakout often comes with increased volume, which is a moderately strong confirmation of the move.  
+​  
+BigShort’s data can show you whether the head and shoulders is being driven by retail (momo) players or institutional (or both) and whether it’s supported by large options trades and dark pools making your entry much more confident.  
+​
+
+  2. **BigShort Makes You Confident:** For a traditional head and shoulders (bearish) pattern, look for bearish signs from institutional investors which are easy to see in BigShort. Look for these signs:  
+​  
+​**Bearish[Net Options Flow](https://intercom.help/bigshort/en/articles/10354751-net-option-flow-a-complete-guide) (NOF) Pyramids** (Purple pointing up, blue pointing down, the larger the more bearish)
+
+[![](https://downloads.intercomcdn.com/i/o/u9e1zc58/1373793550/249334c20b26a0d5d13abbfd8130/Bearish+Net+Options+Flow.png?expires=1765215000&signature=2d00cc31e33e4af4a0ea301c6c048a7898135d2f982c2044cffdda74c9f3c925&req=dSMgFc53noRaWfMW1HO4za%2B8LVyC9ImA3%2FHBe48hMniBOhCBZPQmjoNQk49A%0AtP4S%0A)](https://downloads.intercomcdn.com/i/o/u9e1zc58/1373793550/249334c20b26a0d5d13abbfd8130/Bearish+Net+Options+Flow.png?expires=1765215000&signature=2d00cc31e33e4af4a0ea301c6c048a7898135d2f982c2044cffdda74c9f3c925&req=dSMgFc53noRaWfMW1HO4za%2B8LVyC9ImA3%2FHBe48hMniBOhCBZPQmjoNQk49A%0AtP4S%0A)
+
+  
+​**Bearish[Dark Pools](https://intercom.help/bigshort/en/articles/10280483-understanding-dark-pools-and-darkflow-in-bigshort)** (grey circles above the price action, the larger and more numerous, the more bearish)
+
+[![](https://downloads.intercomcdn.com/i/o/u9e1zc58/1373794498/7c6f238316c8a5c122a1de8130a7/Bearish+Dark+Pools.png?expires=1765215000&signature=199781d2ee6078d7ec9f789064a0b3446c12e5fd3f678cd6794f8edfd8f93788&req=dSMgFc53mYVWUfMW1HO4zQkCiZ1DpaL%2Fo636o%2FWEJ6PHGnMNN9Hxi%2B%2FR2Rcn%0AQWL4%0A)](https://downloads.intercomcdn.com/i/o/u9e1zc58/1373794498/7c6f238316c8a5c122a1de8130a7/Bearish+Dark+Pools.png?expires=1765215000&signature=199781d2ee6078d7ec9f789064a0b3446c12e5fd3f678cd6794f8edfd8f93788&req=dSMgFc53mYVWUfMW1HO4zQkCiZ1DpaL%2Fo636o%2FWEJ6PHGnMNN9Hxi%2B%2FR2Rcn%0AQWL4%0A)
+
+  3. **Stop-Loss Placement** : Place your stop-loss just above the right shoulder for a standard Head and Shoulders pattern (or just below for an inverse). This protects your trade in case the pattern fails and the price reverses direction (which is far less likely to happen with the major players behind you)   
+​
+
+  4. **Profit Target** : Measure the height from the head to the neckline and project that distance downward (or upward for an inverse pattern) from the breakout point. This gives you a clear profit target which gets further supported by BigShort’s indicators. You can see as the market players are moving into the new direction (enabling you to stay in the trade longer) or if it’s time to get out.
+
+
+
+
+[![](https://downloads.intercomcdn.com/i/o/u9e1zc58/1373768062/2d69303ed93f1b8ff43ec6cdf23e/AD_4nXcwi1Ld6yIGdQNm39TwOD6lTTbSZDwLB5riGu9PjXqfvbkgbLwBXs5qntJl3yvFstpjM5WMakX4BR1nrGk0MbHjvk1JbSAaatoIxtodjAnJKWSYIgAspKGh_AvZZ3WPJD7nfApYRQ?expires=1765215000&signature=5285a5e3d5b10644bea8d4102d02af866d7cafe1d73b6bc469f8b2c552e71797&req=dSMgFc54lYFZW%2FMW1HO4zVLlY4sZYpQjZJF1MC%2BGt034iaR2weIWM52o8ivX%0ABLX3q2p7LAVOm5T0ECo%3D%0A)](https://downloads.intercomcdn.com/i/o/u9e1zc58/1373768062/2d69303ed93f1b8ff43ec6cdf23e/AD_4nXcwi1Ld6yIGdQNm39TwOD6lTTbSZDwLB5riGu9PjXqfvbkgbLwBXs5qntJl3yvFstpjM5WMakX4BR1nrGk0MbHjvk1JbSAaatoIxtodjAnJKWSYIgAspKGh_AvZZ3WPJD7nfApYRQ?expires=1765215000&signature=5285a5e3d5b10644bea8d4102d02af866d7cafe1d73b6bc469f8b2c552e71797&req=dSMgFc54lYFZW%2FMW1HO4zVLlY4sZYpQjZJF1MC%2BGt034iaR2weIWM52o8ivX%0ABLX3q2p7LAVOm5T0ECo%3D%0A)
+
+# **Why BigShort?**
+
+BigShort doesn’t just help you identify Head and Shoulders patterns—it empowers you to trade them with confidence. By revealing the moves of the big money players, BigShort gives you an edge in timing and execution. With BigShort, you’re not just trading patterns; you’re trading smarter.  
+​  
+​  
+​** _Disclaimer:_**  
+​ _The information provided in this article is for educational and informational purposes only and should not be considered as financial advice. BigShort does not provide personalized investment recommendations or advice, and you should not make any trading or investment decisions based solely on the content of this article. Trading in the stock market involves significant risk, including the potential loss of your entire investment. Past performance of our tools, indicators, or any referenced strategies does not guarantee future results. Always do your own research and consult with a qualified financial advisor before making investment decisions. Use of our platform and its features is at your own risk._

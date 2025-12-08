@@ -1,0 +1,146 @@
+---
+title: "Getting Started with BigShort - New Users"
+source: "https://help.bigshort.com/en/articles/10279633-getting-started-with-bigshort-new-users"
+collection: "Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles"
+---
+
+First, before the trading day starts, or even on the previous day, we recommend taking a look at the [Seasonality Tab](https://intercom.help/bigshort/en/articles/10354276-understanding-the-seasonality-tab-in-bigshort). This shows the historic performance of the last 30 years of SPY per calendar date. While Seasonality is a weaker force in the market, it’s good to give a general directional bias for the day.  
+​
+
+**If you’re just getting started, we recommend looking at the[SF Segregated chart.](https://intercom.help/bigshort/en/articles/10362301-sf-segregated-tab)**
+
+[![](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296646081/b1be59406bbad0d7b07eedaadbac/0-chart.png?expires=1765215000&signature=fa37e1374983f881c355c153598271ecbc34fd050bb353cceac9b42f7ec83881&req=dSIuEM96m4FXWPMW1HO4zXstZ%2F%2B3qWuD7bkI6JDK0fp%2BC%2BM0lYWSwQJEk4nr%0A9PG0KkIGWUv%2BnZSXR4I%3D%0A)](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296646081/b1be59406bbad0d7b07eedaadbac/0-chart.png?expires=1765215000&signature=fa37e1374983f881c355c153598271ecbc34fd050bb353cceac9b42f7ec83881&req=dSIuEM96m4FXWPMW1HO4zXstZ%2F%2B3qWuD7bkI6JDK0fp%2BC%2BM0lYWSwQJEk4nr%0A9PG0KkIGWUv%2BnZSXR4I%3D%0A)
+
+# Introduction
+
+In the upper left corner, you can search by ticker and date. We have performant 5 minute charts for all tickers for the S&P500 and Nasdaq going back **six years.**  
+​
+
+In the upper right corner, you can see the current values for [SmartFlow and MomoFlow](https://intercom.help/bigshort/en/articles/10361455-understanding-smartflow-and-momoflow-indicators). Under that, you can see all of our chart tools. Here, you can zoom in, draw lines, change your chart settings, use the tool tip to view all current values in a static, moveable and resizable pane, and see all option flow detail. You can see a description of all chart settings by hovering over the info icon. We offer these options because every trader has their own preference, for new users we recommend using the Recommended Settings.  
+​  
+In my examples I’ll be going over how to trade with SPY. For other tickers, look at the historical 5 minute chart to determine whether the stock is omo or smart controlled, and what the meaningful Momo/NOF levels are.  
+​
+
+# Candles & Dark Pools
+
+The first pane is the Candlestick Pane. Here we display dark pool prints directly on the chart, so you can easily see support and resistance levels. Price action is the number one indicator, that’s why it’s the biggest pane. [Dark Pools](https://intercom.help/bigshort/en/articles/10280483-understanding-dark-pools-and-darkflow-in-bigshort) are our number two indicator. When there are a lot of dark pools clustered around the same price range, or big dark pools, above the current price this level acts as resistance, and below the current price this level acts as support.
+
+[![](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296652315/3a390e792e433258ccf2eb24279a/2-chart-1.png?expires=1765215000&signature=39ca81b2e3e4e1e0b50d701c2eb8068558613465ec44639abb42607fdcfab9bb&req=dSIuEM97n4JeXPMW1HO4zbgNF4iHFAd91PqLefzgjx9UO5Pnw%2B423Ijrefns%0A88%2FjrQJNMV0ezkxpFF8%3D%0A)](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296652315/3a390e792e433258ccf2eb24279a/2-chart-1.png?expires=1765215000&signature=39ca81b2e3e4e1e0b50d701c2eb8068558613465ec44639abb42607fdcfab9bb&req=dSIuEM97n4JeXPMW1HO4zbgNF4iHFAd91PqLefzgjx9UO5Pnw%2B423Ijrefns%0A88%2FjrQJNMV0ezkxpFF8%3D%0A)
+
+[![](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296653158/d1b65a43d8f7d025d10789a16c4d/darkpool-support-4.png?expires=1765215000&signature=a51f2eab10a4d301530f493cfa4b3f3b4ad35271f60ca01707822b94bbb8e5c6&req=dSIuEM97noBaUfMW1HO4zTEcSpRPTfSTvNdF5CwxOB57LqZnskneMjEAO6qp%0A%2B%2BdSKh0CRwPm23y2EAE%3D%0A)](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296653158/d1b65a43d8f7d025d10789a16c4d/darkpool-support-4.png?expires=1765215000&signature=a51f2eab10a4d301530f493cfa4b3f3b4ad35271f60ca01707822b94bbb8e5c6&req=dSIuEM97noBaUfMW1HO4zTEcSpRPTfSTvNdF5CwxOB57LqZnskneMjEAO6qp%0A%2B%2BdSKh0CRwPm23y2EAE%3D%0A)
+
+[![](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296653351/f81f230abb647090201356e92a8b/Darkpool-resistance-3.png?expires=1765215000&signature=2b1cfbdcd4af6ff3cb631d6262c015a0ae45f651f4699ee175bf98cc7144398e&req=dSIuEM97noJaWPMW1HO4zS5ccm2NP%2Fd%2BntfQaUQHODPNZcYiDuh4XGEtsr4t%0ARBj34KiCQBiaDdgDlbI%3D%0A)](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296653351/f81f230abb647090201356e92a8b/Darkpool-resistance-3.png?expires=1765215000&signature=2b1cfbdcd4af6ff3cb631d6262c015a0ae45f651f4699ee175bf98cc7144398e&req=dSIuEM97noJaWPMW1HO4zS5ccm2NP%2Fd%2BntfQaUQHODPNZcYiDuh4XGEtsr4t%0ARBj34KiCQBiaDdgDlbI%3D%0A)
+
+**🔎 Looking Deeper:** Lots of Dark Pools below the current price tend to drive price up. Lots of Dark Pools above the current price tend to drive price down. Dark Pool signals are even better when supported by other indicators in BigShort.
+
+# GEX (Gamma Exposure)
+
+You’ll see GEX as a default on our BigShort charts, as lines directly on the candlestick pane. We offer 0DTE, 7DTE, and all DTE as chart options, which you can toggle in Chart Settings. The green line is the call wall, the red line is the put wall, and the turquoise line is the Zero Gamma Flip. We’ve made reading GEX simple for our new users, the basic rule of thumb is:
+
+Put wall rising (red line moving up) → bearish pressure
+
+Put wall falling (red line moving down) → bullish pressure
+
+Call wall rising (green line moving up) → bullish pressure
+
+Call wall falling (green line moving down) → bearish pressure
+
+[![](https://downloads.intercomcdn.com/i/o/u9e1zc58/1679657770/127bfbce9a090638360c3a1475a7/gex+example.png?expires=1765215000&signature=aa87a063ab6d534ebfbb3d726f1c16eb5f4f9f68b137029cf582a2350b461486&req=dSYgH897moZYWfMW1HO4zQ4mRI7cTU4%2FUjBBXBGO7Cer0g531IRGgJkdUCvI%0AYH8fKC3qaHmjuXRthL4%3D%0A)](https://downloads.intercomcdn.com/i/o/u9e1zc58/1679657770/127bfbce9a090638360c3a1475a7/gex+example.png?expires=1765215000&signature=aa87a063ab6d534ebfbb3d726f1c16eb5f4f9f68b137029cf582a2350b461486&req=dSYgH897moZYWfMW1HO4zQ4mRI7cTU4%2FUjBBXBGO7Cer0g531IRGgJkdUCvI%0AYH8fKC3qaHmjuXRthL4%3D%0A)
+
+**NOTE:** These rules are only applicable when green line is ABOVE the red line, which it is in most cases. If red line is above green, disregard these rules.
+
+As with all indicators, look for a **confluence** of signals from multiple indicators to help strengthen your trading decisions.
+
+The second pane is SmartFlow. Since this is the new user guide, just disregard this pane for now.
+
+#   
+MomoFlow
+
+The third pane is MomoFlow.
+
+[![](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296657382/5eddf19e6a1e960e460444ee494a/2-chart-2.png?expires=1765215000&signature=9d119f6f78893ab16af32276bfd36a9c1b0bacd4146c909e2fc0ab9fa7ef7947&req=dSIuEM97moJXW%2FMW1HO4zaL7iVR4trX%2FSSHlRlfK5FSo%2FQ7ZXITpSscd4fIS%0At4z5b0%2Falvazhwv2nAM%3D%0A)](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296657382/5eddf19e6a1e960e460444ee494a/2-chart-2.png?expires=1765215000&signature=9d119f6f78893ab16af32276bfd36a9c1b0bacd4146c909e2fc0ab9fa7ef7947&req=dSIuEM97moJXW%2FMW1HO4zaL7iVR4trX%2FSSHlRlfK5FSo%2FQ7ZXITpSscd4fIS%0At4z5b0%2Falvazhwv2nAM%3D%0A)
+
+Pay attention here. Momo is a proxy for dumb money, and so MomoFlow is an inverse indicator. The shadow bar is MomoFlow for a given 5 minute bar, and the red line is the accumulation of MomoFlow throughout the day. If you see a big shadow bar pointing down, that means momo is dumping, and market makers are buying the dump. Think of it as a seesaw: the more the momo majority is on one side, the less room there is for a further move in that price direction, and the more incentive market makers have to take price in the opposite direction.
+
+[![](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296659818/8e9422a65a1a354a0df2ec7627f6/4-momoflow-example-2-1.png?expires=1765215000&signature=321d86a60124b1a4289ecb0a98b0c64b8e386cd622bb7a41623c748e4172468a&req=dSIuEM97lIleUfMW1HO4zVZ8WrTN9A6QGirCH7tNfrMx1beqG2cbHcP30Sr7%0A1TcEHGsynbGBKSvBVnI%3D%0A)](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296659818/8e9422a65a1a354a0df2ec7627f6/4-momoflow-example-2-1.png?expires=1765215000&signature=321d86a60124b1a4289ecb0a98b0c64b8e386cd622bb7a41623c748e4172468a&req=dSIuEM97lIleUfMW1HO4zVZ8WrTN9A6QGirCH7tNfrMx1beqG2cbHcP30Sr7%0A1TcEHGsynbGBKSvBVnI%3D%0A)
+
+Scaling is important, especially in the beginning of the day, because the pane will resize to fit the bars, so be sure to check the absolute value of MomoFlow and compare it to historical norms. The larger the better.  
+​
+
+💡**Tip:** MomoFlow shadow bars tend to work better on non-Mondays, as SPY tends to be more momo-controlled on Mondays, especially Monday mornings.
+
+It’s also good to see multiple shadow bars pointing in the same direction in succession, this strengthens the signal.  
+​
+
+# OptionFlow
+
+The fourth pane is OptionFlow. Be sure to have our beta feature, [Net Option Flow](https://intercom.help/bigshort/en/articles/10354751-net-option-flow-a-complete-guide) (NOF), turned on in your chart settings. You should see purple and blue hills, pointing both up and down.
+
+[![](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296661190/82570713f97685015f9be259f4e1/3-chart-3.png?expires=1765215000&signature=7865b7554d75cdf2d7f02c6735eab2e758eeff6b65ce1030b948289be6b572c9&req=dSIuEM94nIBWWfMW1HO4ze1JwWssO3Q29dhcRmWAuUIwXDuzZj41tv8nWMPp%0AOx%2Fp5Ab%2FM4N4esRBp%2Fw%3D%0A)](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296661190/82570713f97685015f9be259f4e1/3-chart-3.png?expires=1765215000&signature=7865b7554d75cdf2d7f02c6735eab2e758eeff6b65ce1030b948289be6b572c9&req=dSIuEM94nIBWWfMW1HO4ze1JwWssO3Q29dhcRmWAuUIwXDuzZj41tv8nWMPp%0AOx%2Fp5Ab%2FM4N4esRBp%2Fw%3D%0A)
+
+Scaling is important, especially in the beginning of the day, because the pane will resize to fit the bars, so be sure to check the absolute value of NOF and compare it to historical norms.  
+​  
+Traditional option volume registers 1 million contracts bought and 1 million contracts sold as the same. Net Option Flow differentiate between buys and sells, with buys pointing up and sells pointing down. This implies a directional bias. If options are being bought, they point up, if options are being sold, they point down. In general, buying calls and selling puts are bullish, selling calls and buying puts are bearish. 
+
+[![](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296661876/743a3f5a9ba8a0fd6fd0753b38e1/hill-example-2.png?expires=1765215000&signature=49357f04a3b1377daa599e011ad812a6219a606a6727d4fee69e5c77871eae69&req=dSIuEM94nIlYX%2FMW1HO4zZKTYqVcxVae171jHmo7eKhzF%2Bslq4n%2F1o3G4i4b%0Ar8%2Bc1U26t3%2Bjnw5QAvo%3D%0A)](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296661876/743a3f5a9ba8a0fd6fd0753b38e1/hill-example-2.png?expires=1765215000&signature=49357f04a3b1377daa599e011ad812a6219a606a6727d4fee69e5c77871eae69&req=dSIuEM94nIlYX%2FMW1HO4zZKTYqVcxVae171jHmo7eKhzF%2Bslq4n%2F1o3G4i4b%0Ar8%2Bc1U26t3%2Bjnw5QAvo%3D%0A)
+
+Traditional option volume also doesn’t account for the amount of money going into the trades that comprise it. With options volume, 1000 contracts bought for 1 cent registers the same as 1000 contracts bought for $10. With Net Option Flow, we weigh the latter 1000x more heavily. We also deduct the buys and sells from each other, whereas traditionally, they are just all added up to create option volume. This is a novel approach for displaying options flow that reveals the net dollar-weighted reality.  
+​  
+This green NOFA line shows the overall options sentiment for a given time period, and tracks whether there are more dollars flowing into bullish or bearish positions. If the green line is above zero on a 5min chart, this means that the net sum of past options trades throughout the day is positive. If the green line is below zero, this means that the net sum of past options trades throughout the day is negative. We can also observe the magnitude of movements in the green NOFA line to see how big the current flow is relative to what occurred prior. We can think of NOFA as an accumulation of inventory (positive or negative) throughout the day, which has longer term implications than the bar by bar NOF (net option flow for 1 candle). Read more about Net Option Flow [here](https://intercom.help/bigshort/en/articles/10354751-net-option-flow-a-complete-guide).  
+​
+
+📝 **Note:** Selling options is not as strong of an indicator as buying options, for example call buying is more bullish than the same amount of put selling.
+
+[![](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296662994/fe4b51a92139a648d4e32c6b5d72/5-smartflow-1.png?expires=1765215000&signature=883b69d6b361ac3f2b2d0ecd6a9376d5112c795d3ffdc49a44fe4de9bf7e9199&req=dSIuEM94n4hWXfMW1HO4zRicNG16bJJXa11ZUfoj%2FXuioW%2B8nse0FmrCo0Sr%0AZVbMf99%2B0uyI9jWooDY%3D%0A)](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296662994/fe4b51a92139a648d4e32c6b5d72/5-smartflow-1.png?expires=1765215000&signature=883b69d6b361ac3f2b2d0ecd6a9376d5112c795d3ffdc49a44fe4de9bf7e9199&req=dSIuEM94n4hWXfMW1HO4zRicNG16bJJXa11ZUfoj%2FXuioW%2B8nse0FmrCo0Sr%0AZVbMf99%2B0uyI9jWooDY%3D%0A)
+
+# Net Option Flow/MomoFlow Exhaustion:
+
+One theory to keep in mind as you start trading, is that for both Net Option Flow and MomoFlow, when the indicator trends hard in one direction for a while, when things start to go in the opposite direction, that opposite direction move tends to be outsized. The theory is that if one side gets too crowded, a reversal can be triggered by a much smaller volume.  
+​  
+Imagine there are two opponents pushing against a ball. One opponent is exerting with 100% of their strength, and eventually tires out. Once they’re tired, the other opponent can be easily overcome with much less strength than was required before the first opponent became tired.
+
+[![](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296664816/dc7a6036f639ae3c9945dc273df4/7-momo-exhaustion-example.png?expires=1765215000&signature=82680946dc39c7d76a8b3564d1ff0acfb06488b2bd9d5535db892134aba07db7&req=dSIuEM94mYleX%2FMW1HO4zWcPqykVsbilNclJ7ucO7BBSHdyfyjeUOeY8A7Rv%0AkE%2BrPeftoTcz2vU9LGk%3D%0A)](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296664816/dc7a6036f639ae3c9945dc273df4/7-momo-exhaustion-example.png?expires=1765215000&signature=82680946dc39c7d76a8b3564d1ff0acfb06488b2bd9d5535db892134aba07db7&req=dSIuEM94mYleX%2FMW1HO4zWcPqykVsbilNclJ7ucO7BBSHdyfyjeUOeY8A7Rv%0AkE%2BrPeftoTcz2vU9LGk%3D%0A)
+
+[![](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296665513/a31c76ad71058fb37756eb6f1e6f/6-nof-exhaustion-example-1.png?expires=1765215000&signature=64cb475184871cb769f1214bf6b046218efb6ab62010621d8aff963dd02bc35b&req=dSIuEM94mIReWvMW1HO4zQJ0keH31EGiYo8nJNz0S95V%2F3tzHnhqDR3rswqN%0AUrSE3%2BTtYij4x0jbYho%3D%0A)](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296665513/a31c76ad71058fb37756eb6f1e6f/6-nof-exhaustion-example-1.png?expires=1765215000&signature=64cb475184871cb769f1214bf6b046218efb6ab62010621d8aff963dd02bc35b&req=dSIuEM94mIReWvMW1HO4zQJ0keH31EGiYo8nJNz0S95V%2F3tzHnhqDR3rswqN%0AUrSE3%2BTtYij4x0jbYho%3D%0A)
+
+#   
+SimSearch
+
+UltraFlow SimSearch shows the 5 trading days with the most similar price action to today’s, and shows how those days played out. It activates after the first 30 minutes of the day and then updates every 2 seconds. It’s good to keep the SimSearch chart open in another window to see the potential patterns of the day. Read more about SimSearch [here.](https://intercom.help/bigshort/en/articles/10279839-similarity-search-simsearch)
+
+[![](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296666514/0ae00a889fbb4dd5ecb5ab6a5118/8-simsearch.png?expires=1765215000&signature=c3bd40bcf8e3ab631f0fdd10d1cdf0fc912ce90e66f8fe25156269f558795888&req=dSIuEM94m4ReXfMW1HO4zT4vMLCah5NwdKME4dDnsJEBkJ9a6Lz6tSuRIP6J%0A1%2FEpk2AuQhGdte4bMXQ%3D%0A)](https://downloads.intercomcdn.com/i/o/u9e1zc58/1296666514/0ae00a889fbb4dd5ecb5ab6a5118/8-simsearch.png?expires=1765215000&signature=c3bd40bcf8e3ab631f0fdd10d1cdf0fc912ce90e66f8fe25156269f558795888&req=dSIuEM94m4ReXfMW1HO4zT4vMLCah5NwdKME4dDnsJEBkJ9a6Lz6tSuRIP6J%0A1%2FEpk2AuQhGdte4bMXQ%3D%0A)
+
+When trading, look for directional alignment in as many indicators as possible, and be cautious when the indicators conflict.  
+​
+
+# Indicators in order of importance:
+
+  1. Price Action
+
+  2. Honey Badger Days
+
+  3. Dark Pool Prints
+
+  4. Insider Trades
+
+  5. Momo Shadow Bars/GEX (tied)
+
+  6. NOF
+
+  7. Short Exempt
+
+  8. SimSearch
+
+  9. Manipulation (_disregard if you’re new, only for professionals, and only for specific high-volume situations_)
+
+  10. Golden and Bronze Sweeps
+
+  11. Seasonality  
+​
+
+
+
+
+# Conclusion
+
+If you’re a new trader, start by focusing just on price action, dark pool prints, NOF and shadow bars. Avoid trading power hour (the last hour of trading) as that's when a lot of dumb money and blind institutional money flood the market, so anything goes. Master these before you move on to the Advanced Guide, which is coming soon.

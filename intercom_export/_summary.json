@@ -1,0 +1,396 @@
+{
+  "total_collections": 6,
+  "total_articles": 65,
+  "articles": [
+    {
+      "collection": "Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles",
+      "title": "Getting Started with BigShort - New Users",
+      "url": "https://help.bigshort.com/en/articles/10279633-getting-started-with-bigshort-new-users",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles\\Getting Started with BigShort - New Users.md"
+    },
+    {
+      "collection": "Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles",
+      "title": "Will I Make Money?",
+      "url": "https://help.bigshort.com/en/articles/10459388-will-i-make-money",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles\\Will I Make Money.md"
+    },
+    {
+      "collection": "Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles",
+      "title": "Why You Should Rethink Setting Stop Losses and Hanging Limit Orders",
+      "url": "https://help.bigshort.com/en/articles/11454895-why-you-should-rethink-setting-stop-losses-and-hanging-limit-orders",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles\\Why You Should Rethink Setting Stop Losses and Hanging Limit Orders.md"
+    },
+    {
+      "collection": "Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles",
+      "title": "Why We Don\u2019t Trade Power Hour",
+      "url": "https://help.bigshort.com/en/articles/10416277-why-we-don-t-trade-power-hour",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles\\Why We Don\u2019t Trade Power Hour.md"
+    },
+    {
+      "collection": "Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles",
+      "title": "How Do I Find Good Trades?",
+      "url": "https://help.bigshort.com/en/articles/10591377-how-do-i-find-good-trades",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles\\How Do I Find Good Trades.md"
+    },
+    {
+      "collection": "Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles",
+      "title": "Exiting Trades",
+      "url": "https://help.bigshort.com/en/articles/10716230-exiting-trades",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles\\Exiting Trades.md"
+    },
+    {
+      "collection": "Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles",
+      "title": "Quickstart for Day Traders",
+      "url": "https://help.bigshort.com/en/articles/11002680-quickstart-for-day-traders",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles\\Quickstart for Day Traders.md"
+    },
+    {
+      "collection": "Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles",
+      "title": "Quickstart for Swing Traders",
+      "url": "https://help.bigshort.com/en/articles/11002889-quickstart-for-swing-traders",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles\\Quickstart for Swing Traders.md"
+    },
+    {
+      "collection": "Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles",
+      "title": "Understanding the Seasonality Tab",
+      "url": "https://help.bigshort.com/en/articles/10354276-understanding-the-seasonality-tab",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles\\Understanding the Seasonality Tab.md"
+    },
+    {
+      "collection": "Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles",
+      "title": "Dashboard & Top 10s",
+      "url": "https://help.bigshort.com/en/articles/10362240-dashboard-top-10s",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles\\Dashboard & Top 10s.md"
+    },
+    {
+      "collection": "Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles",
+      "title": "SF Segregated Tab",
+      "url": "https://help.bigshort.com/en/articles/10362301-sf-segregated-tab",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles\\SF Segregated Tab.md"
+    },
+    {
+      "collection": "Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles",
+      "title": "DarkFlow Tab",
+      "url": "https://help.bigshort.com/en/articles/10401777-darkflow-tab",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles\\DarkFlow Tab.md"
+    },
+    {
+      "collection": "Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles",
+      "title": "Understanding the UltraFlow Tab",
+      "url": "https://help.bigshort.com/en/articles/10442189-understanding-the-ultraflow-tab",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles\\Understanding the UltraFlow Tab.md"
+    },
+    {
+      "collection": "Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles",
+      "title": "Looking at the OptionFlow Tab",
+      "url": "https://help.bigshort.com/en/articles/10445337-looking-at-the-optionflow-tab",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles\\Looking at the OptionFlow Tab.md"
+    },
+    {
+      "collection": "Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles",
+      "title": "SmartFlow Tab",
+      "url": "https://help.bigshort.com/en/articles/10445405-smartflow-tab",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles\\SmartFlow Tab.md"
+    },
+    {
+      "collection": "Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles",
+      "title": "Training Tab",
+      "url": "https://help.bigshort.com/en/articles/11380461-training-tab",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Getting StartedEverything you need to get going.By Matt and 1 other2 authors16 articles\\Training Tab.md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "What is a Honey Badger Day and How To Trade It",
+      "url": "https://help.bigshort.com/en/articles/10279943-what-is-a-honey-badger-day-and-how-to-trade-it",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\What is a Honey Badger Day and How To Trade It.md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "Trading Ascending and Descending Triangles with BigShort",
+      "url": "https://help.bigshort.com/en/articles/10512940-trading-ascending-and-descending-triangles-with-bigshort",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\Trading Ascending and Descending Triangles with BigShort.md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "Head and Shoulders Patterns with BigShort",
+      "url": "https://help.bigshort.com/en/articles/10533810-head-and-shoulders-patterns-with-bigshort",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\Head and Shoulders Patterns with BigShort.md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "Support Breakout Trades with BigShort",
+      "url": "https://help.bigshort.com/en/articles/10534654-support-breakout-trades-with-bigshort",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\Support Breakout Trades with BigShort.md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "Using Short Exempt (SE) for Swing Trading",
+      "url": "https://help.bigshort.com/en/articles/10582547-using-short-exempt-se-for-swing-trading",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\Using Short Exempt (SE) for Swing Trading.md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "Sergius\u2019 Cumulative Volume Swing Trading Strategy",
+      "url": "https://help.bigshort.com/en/articles/10573571-sergius-cumulative-volume-swing-trading-strategy",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\Sergius\u2019 Cumulative Volume Swing Trading Strategy.md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "\"Z3\" the 3 Bar Reversal strategy by @Zedamonator",
+      "url": "https://help.bigshort.com/en/articles/10697887-z3-the-3-bar-reversal-strategy-by-zedamonator",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\Z3 the 3 Bar Reversal strategy by @Zedamonator.md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "Kchun and Tae's 'Exhaustion Reversal' Signal",
+      "url": "https://help.bigshort.com/en/articles/10573717-kchun-and-tae-s-exhaustion-reversal-signal",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\Kchun and Tae's 'Exhaustion Reversal' Signal.md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "Joe from Cup of Joe Trading Explains his Premarket Strategy (video)",
+      "url": "https://help.bigshort.com/en/articles/10279872-joe-from-cup-of-joe-trading-explains-his-premarket-strategy-video",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\Joe from Cup of Joe Trading Explains his Premarket Strategy (video).md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "Honey Badger Success Stories",
+      "url": "https://help.bigshort.com/en/articles/11106719-honey-badger-success-stories",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\Honey Badger Success Stories.md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "Trading $SPY Profitably with BigShort",
+      "url": "https://help.bigshort.com/en/articles/10534750-trading-spy-profitably-with-bigshort",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\Trading $SPY Profitably with BigShort.md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "Trading a $HIMS Reversal",
+      "url": "https://help.bigshort.com/en/articles/10562252-trading-a-hims-reversal",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\Trading a $HIMS Reversal.md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "An Unexpected $SPY Reversal",
+      "url": "https://help.bigshort.com/en/articles/10543166-an-unexpected-spy-reversal",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\An Unexpected $SPY Reversal.md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "Trading a volatile $PLTR with 12 hours warning",
+      "url": "https://help.bigshort.com/en/articles/10619557-trading-a-volatile-pltr-with-12-hours-warning",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\Trading a volatile $PLTR with 12 hours warning.md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "With vs. Without BigShort",
+      "url": "https://help.bigshort.com/en/articles/10847080-with-vs-without-bigshort",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\With vs. Without BigShort.md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "Using Daily Timeframe to Swing Trade Through a Crash",
+      "url": "https://help.bigshort.com/en/articles/11056661-using-daily-timeframe-to-swing-trade-through-a-crash",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\Using Daily Timeframe to Swing Trade Through a Crash.md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "Trading Dual Honey Badger Days - 3.21.25 and 3.24.25",
+      "url": "https://help.bigshort.com/en/articles/10927088-trading-dual-honey-badger-days-3-21-25-and-3-24-25",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\Trading Dual Honey Badger Days - 3.21.25 and 3.24.25.md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "Tae's Corner: SPY - Jan 15, 2025",
+      "url": "https://help.bigshort.com/en/articles/10416328-tae-s-corner-spy-jan-15-2025",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\Tae's Corner SPY - Jan 15, 2025.md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "Tae's Corner: SPY - Jan 14, 2025",
+      "url": "https://help.bigshort.com/en/articles/10486239-tae-s-corner-spy-jan-14-2025",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\Tae's Corner SPY - Jan 14, 2025.md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "Tae's Corner: SPY - Nov 20, 2024",
+      "url": "https://help.bigshort.com/en/articles/10486487-tae-s-corner-spy-nov-20-2024",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\Tae's Corner SPY - Nov 20, 2024.md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "Tae's Corner: SPY - Sept. 25, 2024",
+      "url": "https://help.bigshort.com/en/articles/10547843-tae-s-corner-spy-sept-25-2024",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\Tae's Corner SPY - Sept. 25, 2024.md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "Tae's Corner: SPY - Sept. 20, 2024",
+      "url": "https://help.bigshort.com/en/articles/10548164-tae-s-corner-spy-sept-20-2024",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\Tae's Corner SPY - Sept. 20, 2024.md"
+    },
+    {
+      "collection": "StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles",
+      "title": "Free Money Day - SPY 4.23.25",
+      "url": "https://help.bigshort.com/en/articles/11133441-free-money-day-spy-4-23-25",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\StrategyHow to use BigShort for profitBy Sara and 1 other2 authors23 articles\\Free Money Day - SPY 4.23.25.md"
+    },
+    {
+      "collection": "Indicators & FeaturesDeep dives into BigShort indicatorsBy Matt and 1 other2 authors7 articles",
+      "title": "Similarity Search (SimSearch)",
+      "url": "https://help.bigshort.com/en/articles/10279839-similarity-search-simsearch",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Indicators & FeaturesDeep dives into BigShort indicatorsBy Matt and 1 other2 authors7 articles\\Similarity Search (SimSearch).md"
+    },
+    {
+      "collection": "Indicators & FeaturesDeep dives into BigShort indicatorsBy Matt and 1 other2 authors7 articles",
+      "title": "Understanding Dark Pools and DarkFlow in BigShort",
+      "url": "https://help.bigshort.com/en/articles/10280483-understanding-dark-pools-and-darkflow-in-bigshort",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Indicators & FeaturesDeep dives into BigShort indicatorsBy Matt and 1 other2 authors7 articles\\Understanding Dark Pools and DarkFlow in BigShort.md"
+    },
+    {
+      "collection": "Indicators & FeaturesDeep dives into BigShort indicatorsBy Matt and 1 other2 authors7 articles",
+      "title": "Net Option Flow: A Complete Guide",
+      "url": "https://help.bigshort.com/en/articles/10354751-net-option-flow-a-complete-guide",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Indicators & FeaturesDeep dives into BigShort indicatorsBy Matt and 1 other2 authors7 articles\\Net Option Flow A Complete Guide.md"
+    },
+    {
+      "collection": "Indicators & FeaturesDeep dives into BigShort indicatorsBy Matt and 1 other2 authors7 articles",
+      "title": "Understanding SmartFlow and MomoFlow Indicators",
+      "url": "https://help.bigshort.com/en/articles/10361455-understanding-smartflow-and-momoflow-indicators",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Indicators & FeaturesDeep dives into BigShort indicatorsBy Matt and 1 other2 authors7 articles\\Understanding SmartFlow and MomoFlow Indicators.md"
+    },
+    {
+      "collection": "Indicators & FeaturesDeep dives into BigShort indicatorsBy Matt and 1 other2 authors7 articles",
+      "title": "What the Hell Is Spodin?",
+      "url": "https://help.bigshort.com/en/articles/10389267-what-the-hell-is-spodin",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Indicators & FeaturesDeep dives into BigShort indicatorsBy Matt and 1 other2 authors7 articles\\What the Hell Is Spodin.md"
+    },
+    {
+      "collection": "Indicators & FeaturesDeep dives into BigShort indicatorsBy Matt and 1 other2 authors7 articles",
+      "title": "Manipulation and Market Maker Price Discovery",
+      "url": "https://help.bigshort.com/en/articles/10444514-manipulation-and-market-maker-price-discovery",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Indicators & FeaturesDeep dives into BigShort indicatorsBy Matt and 1 other2 authors7 articles\\Manipulation and Market Maker Price Discovery.md"
+    },
+    {
+      "collection": "Indicators & FeaturesDeep dives into BigShort indicatorsBy Matt and 1 other2 authors7 articles",
+      "title": "What is Short Exempt (SE)?",
+      "url": "https://help.bigshort.com/en/articles/10629795-what-is-short-exempt-se",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Indicators & FeaturesDeep dives into BigShort indicatorsBy Matt and 1 other2 authors7 articles\\What is Short Exempt (SE).md"
+    },
+    {
+      "collection": "GeneralEverything elseBy Sara and 1 other2 authors5 articles",
+      "title": "How to Change your Subscription",
+      "url": "https://help.bigshort.com/en/articles/10366611-how-to-change-your-subscription",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\GeneralEverything elseBy Sara and 1 other2 authors5 articles\\How to Change your Subscription.md"
+    },
+    {
+      "collection": "GeneralEverything elseBy Sara and 1 other2 authors5 articles",
+      "title": "How to Cancel or Pause your Subscription",
+      "url": "https://help.bigshort.com/en/articles/10367584-how-to-cancel-or-pause-your-subscription",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\GeneralEverything elseBy Sara and 1 other2 authors5 articles\\How to Cancel or Pause your Subscription.md"
+    },
+    {
+      "collection": "GeneralEverything elseBy Sara and 1 other2 authors5 articles",
+      "title": "How to Change your Billing Address",
+      "url": "https://help.bigshort.com/en/articles/10367678-how-to-change-your-billing-address",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\GeneralEverything elseBy Sara and 1 other2 authors5 articles\\How to Change your Billing Address.md"
+    },
+    {
+      "collection": "GeneralEverything elseBy Sara and 1 other2 authors5 articles",
+      "title": "How to Change your Payment Method",
+      "url": "https://help.bigshort.com/en/articles/10372151-how-to-change-your-payment-method",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\GeneralEverything elseBy Sara and 1 other2 authors5 articles\\How to Change your Payment Method.md"
+    },
+    {
+      "collection": "GeneralEverything elseBy Sara and 1 other2 authors5 articles",
+      "title": "How to Reset your Password",
+      "url": "https://help.bigshort.com/en/articles/11152044-how-to-reset-your-password",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\GeneralEverything elseBy Sara and 1 other2 authors5 articles\\How to Reset your Password.md"
+    },
+    {
+      "collection": "Discord CommunityAll things DiscordBy Sara and 1 other2 authors3 articles",
+      "title": "How to Join BigShort's Public Discord Server",
+      "url": "https://help.bigshort.com/en/articles/10372155-how-to-join-bigshort-s-public-discord-server",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Discord CommunityAll things DiscordBy Sara and 1 other2 authors3 articles\\How to Join BigShort's Public Discord Server.md"
+    },
+    {
+      "collection": "Discord CommunityAll things DiscordBy Sara and 1 other2 authors3 articles",
+      "title": "How to Join our Members-Only Discord Channels",
+      "url": "https://help.bigshort.com/en/articles/10372185-how-to-join-our-members-only-discord-channels",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Discord CommunityAll things DiscordBy Sara and 1 other2 authors3 articles\\How to Join our Members-Only Discord Channels.md"
+    },
+    {
+      "collection": "Discord CommunityAll things DiscordBy Sara and 1 other2 authors3 articles",
+      "title": "Getting the Most from BigShort's Discord Community",
+      "url": "https://help.bigshort.com/en/articles/10401691-getting-the-most-from-bigshort-s-discord-community",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\Discord CommunityAll things DiscordBy Sara and 1 other2 authors3 articles\\Getting the Most from BigShort's Discord Community.md"
+    },
+    {
+      "collection": "BigResearchBooks and research to make you a better traderBy Matt1 author11 articles",
+      "title": "The Mag7 are failing. Market crash? Or rotation for more risk?",
+      "url": "https://help.bigshort.com/en/articles/10562453-the-mag7-are-failing-market-crash-or-rotation-for-more-risk",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\BigResearchBooks and research to make you a better traderBy Matt1 author11 articles\\The Mag7 are failing. Market crash Or rotation for more risk.md"
+    },
+    {
+      "collection": "BigResearchBooks and research to make you a better traderBy Matt1 author11 articles",
+      "title": "Government Inside Traders to Copy for Profit",
+      "url": "https://help.bigshort.com/en/articles/10556946-government-inside-traders-to-copy-for-profit",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\BigResearchBooks and research to make you a better traderBy Matt1 author11 articles\\Government Inside Traders to Copy for Profit.md"
+    },
+    {
+      "collection": "BigResearchBooks and research to make you a better traderBy Matt1 author11 articles",
+      "title": "When will the FED cut again? How much? What does this mean for my bags?",
+      "url": "https://help.bigshort.com/en/articles/10574383-when-will-the-fed-cut-again-how-much-what-does-this-mean-for-my-bags",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\BigResearchBooks and research to make you a better traderBy Matt1 author11 articles\\When will the FED cut again How much What does this mean for my bags.md"
+    },
+    {
+      "collection": "BigResearchBooks and research to make you a better traderBy Matt1 author11 articles",
+      "title": "Daily hormone fluctuations drive risk and fear",
+      "url": "https://help.bigshort.com/en/articles/10715617-daily-hormone-fluctuations-drive-risk-and-fear",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\BigResearchBooks and research to make you a better traderBy Matt1 author11 articles\\Daily hormone fluctuations drive risk and fear.md"
+    },
+    {
+      "collection": "BigResearchBooks and research to make you a better traderBy Matt1 author11 articles",
+      "title": "How RIGGED Is It?!?!?: Hidden Trading Hits Record Highs",
+      "url": "https://help.bigshort.com/en/articles/10715818-how-rigged-is-it-hidden-trading-hits-record-highs",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\BigResearchBooks and research to make you a better traderBy Matt1 author11 articles\\How RIGGED Is It!! Hidden Trading Hits Record Highs.md"
+    },
+    {
+      "collection": "BigResearchBooks and research to make you a better traderBy Matt1 author11 articles",
+      "title": "Global Stocks Often Tumble on Tariff News - Rebound is Often Months, or Longer",
+      "url": "https://help.bigshort.com/en/articles/10715893-global-stocks-often-tumble-on-tariff-news-rebound-is-often-months-or-longer",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\BigResearchBooks and research to make you a better traderBy Matt1 author11 articles\\Global Stocks Often Tumble on Tariff News - Rebound is Often Months, or Longer.md"
+    },
+    {
+      "collection": "BigResearchBooks and research to make you a better traderBy Matt1 author11 articles",
+      "title": "Think and Trade like a Champion - Mark Minervini",
+      "url": "https://help.bigshort.com/en/articles/10698100-think-and-trade-like-a-champion-mark-minervini",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\BigResearchBooks and research to make you a better traderBy Matt1 author11 articles\\Think and Trade like a Champion - Mark Minervini.md"
+    },
+    {
+      "collection": "BigResearchBooks and research to make you a better traderBy Matt1 author11 articles",
+      "title": "One Up on Wall Street - Peter Lynch",
+      "url": "https://help.bigshort.com/en/articles/10698141-one-up-on-wall-street-peter-lynch",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\BigResearchBooks and research to make you a better traderBy Matt1 author11 articles\\One Up on Wall Street - Peter Lynch.md"
+    },
+    {
+      "collection": "BigResearchBooks and research to make you a better traderBy Matt1 author11 articles",
+      "title": "The Daily Trading Coach - Brett Steenbarger",
+      "url": "https://help.bigshort.com/en/articles/10714349-the-daily-trading-coach-brett-steenbarger",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\BigResearchBooks and research to make you a better traderBy Matt1 author11 articles\\The Daily Trading Coach - Brett Steenbarger.md"
+    },
+    {
+      "collection": "BigResearchBooks and research to make you a better traderBy Matt1 author11 articles",
+      "title": "Trading with Intermarket Analysis - John J. Murphy",
+      "url": "https://help.bigshort.com/en/articles/10714716-trading-with-intermarket-analysis-john-j-murphy",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\BigResearchBooks and research to make you a better traderBy Matt1 author11 articles\\Trading with Intermarket Analysis - John J. Murphy.md"
+    },
+    {
+      "collection": "BigResearchBooks and research to make you a better traderBy Matt1 author11 articles",
+      "title": "Options, Futures, and Other Derivatives - John C. Hull",
+      "url": "https://help.bigshort.com/en/articles/10582317-options-futures-and-other-derivatives-john-c-hull",
+      "saved_to": "C:\\Users\\jon\\GitHub\\BigShort\\BS_KB\\intercom_export\\BigResearchBooks and research to make you a better traderBy Matt1 author11 articles\\Options, Futures, and Other Derivatives - John C. Hull.md"
+    }
+  ]
+}
